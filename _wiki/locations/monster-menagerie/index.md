@@ -3,6 +3,7 @@ layout: wiki
 title: "Monster Menagerie"
 category: "Locations"
 source: "Locations/Monster Menagerie.md"
+generated: true
 ---
 
 #Location 

@@ -3,6 +3,7 @@ layout: wiki
 title: "Hularis Aspora"
 category: "People"
 source: "People/Hularis Aspora.md"
+generated: true
 ---
 
 #Character 

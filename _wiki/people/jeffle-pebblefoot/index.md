@@ -3,6 +3,7 @@ layout: wiki
 title: "Jeffle Pebblefoot"
 category: "People"
 source: "People/Jeffle Pebblefoot.md"
+generated: true
 ---
 
 #Character 

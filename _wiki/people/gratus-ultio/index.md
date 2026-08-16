@@ -3,6 +3,7 @@ layout: wiki
 title: "Gratus Ultio"
 category: "People"
 source: "People/Gratus Ultio.md"
+generated: true
 ---
 
 #Character 

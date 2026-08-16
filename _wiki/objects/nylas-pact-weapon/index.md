@@ -3,6 +3,7 @@ layout: wiki
 title: "Nyla's Pact Weapon"
 category: "Objects"
 source: "Objects/Nyla's Pact Weapon.md"
+generated: true
 ---
 
 #Object 

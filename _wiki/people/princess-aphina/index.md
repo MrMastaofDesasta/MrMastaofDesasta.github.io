@@ -3,6 +3,7 @@ layout: wiki
 title: "Princess Aphina"
 category: "People"
 source: "People/Princess Aphina.md"
+generated: true
 ---
 
 #Character 

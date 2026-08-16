@@ -3,6 +3,7 @@ layout: wiki
 title: "Evra"
 category: "People"
 source: "People/Evra.md"
+generated: true
 ---
 
 #Character 

@@ -3,6 +3,7 @@ layout: wiki
 title: "Trix"
 category: "People"
 source: "People/Trix.md"
+generated: true
 ---
 
 #Character 

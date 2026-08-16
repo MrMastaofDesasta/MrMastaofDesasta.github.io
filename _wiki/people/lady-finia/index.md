@@ -3,6 +3,7 @@ layout: wiki
 title: "Lady Finia"
 category: "People"
 source: "People/Lady Finia.md"
+generated: true
 ---
 
 #Character 

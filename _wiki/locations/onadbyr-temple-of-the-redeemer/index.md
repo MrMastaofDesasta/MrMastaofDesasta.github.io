@@ -3,6 +3,7 @@ layout: wiki
 title: "Onadbyr Temple of the Redeemer"
 category: "Locations"
 source: "Locations/Onadbyr Temple of the Redeemer.md"
+generated: true
 ---
 
 #Location 

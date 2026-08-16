@@ -3,6 +3,7 @@ layout: wiki
 title: "Church of Knowledge"
 category: "Organizations"
 source: "Organizations/Church of Knowledge.md"
+generated: true
 ---
 
 #Organization 

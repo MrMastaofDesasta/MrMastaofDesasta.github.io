@@ -3,6 +3,7 @@ layout: wiki
 title: "Lord Rumlyn"
 category: "People"
 source: "People/Lord Rumlyn.md"
+generated: true
 ---
 
 #Character 

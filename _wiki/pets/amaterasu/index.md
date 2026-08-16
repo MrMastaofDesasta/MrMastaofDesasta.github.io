@@ -3,6 +3,7 @@ layout: wiki
 title: "Amaterasu"
 category: "Pets"
 source: "Pets/Amaterasu.md"
+generated: true
 ---
 
 #Pet 

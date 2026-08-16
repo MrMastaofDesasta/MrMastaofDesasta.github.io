@@ -3,6 +3,7 @@ layout: wiki
 title: "The Dawn of The Ages"
 category: "Locations"
 source: "Locations/The Dawn of The Ages.md"
+generated: true
 ---
 
 #Location 

@@ -3,6 +3,7 @@ layout: wiki
 title: "Dark Star"
 category: "Lore"
 source: "Lore/Dark Star.md"
+generated: true
 ---
 
 #Lore 

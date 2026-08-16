@@ -3,6 +3,7 @@ layout: wiki
 title: "Erinyes"
 category: "Lore"
 source: "Lore/Erinyes.md"
+generated: true
 ---
 
 #Lore

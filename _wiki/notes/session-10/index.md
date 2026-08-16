@@ -3,6 +3,7 @@ layout: wiki
 title: "Session 10"
 category: "Notes"
 source: "Notes/Session 10.md"
+generated: true
 ---
 
 #Notes

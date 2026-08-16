@@ -3,6 +3,7 @@ layout: wiki
 title: "Battle of Champions"
 category: "Events"
 source: "Events/Battle of Champions.md"
+generated: true
 ---
 
 #Event 

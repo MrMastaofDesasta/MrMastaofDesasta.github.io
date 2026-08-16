@@ -3,6 +3,7 @@ layout: wiki
 title: "Eldon Lobo"
 category: "People"
 source: "People/Eldon Lobo.md"
+generated: true
 ---
 
 #Character 

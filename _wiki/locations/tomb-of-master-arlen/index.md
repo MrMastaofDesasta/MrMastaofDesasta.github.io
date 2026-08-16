@@ -3,6 +3,7 @@ layout: wiki
 title: "Tomb of Master Arlen"
 category: "Locations"
 source: "Locations/Tomb of Master Arlen.md"
+generated: true
 ---
 
 #Location 

@@ -3,6 +3,7 @@ layout: wiki
 title: "New Purple"
 category: "Mysteries"
 source: "Mysteries/New Purple.md"
+generated: true
 ---
 
 #Mystery 

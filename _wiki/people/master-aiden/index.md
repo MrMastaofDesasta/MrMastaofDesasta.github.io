@@ -3,6 +3,7 @@ layout: wiki
 title: "Master Aiden"
 category: "People"
 source: "People/Master Aiden.md"
+generated: true
 ---
 
 #Character 

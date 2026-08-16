@@ -3,6 +3,7 @@ layout: wiki
 title: "House Gorso"
 category: "Organizations"
 source: "Organizations/House Gorso.md"
+generated: true
 ---
 
 #Organization 

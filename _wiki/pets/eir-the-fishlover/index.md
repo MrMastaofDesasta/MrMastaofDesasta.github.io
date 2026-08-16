@@ -3,6 +3,7 @@ layout: wiki
 title: "Eir the Fishlover"
 category: "Pets"
 source: "Pets/Eir the Fishlover.md"
+generated: true
 ---
 
 #Pet 

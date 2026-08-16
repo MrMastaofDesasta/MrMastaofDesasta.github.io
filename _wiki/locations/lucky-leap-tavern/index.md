@@ -3,6 +3,7 @@ layout: wiki
 title: "Lucky Leap Tavern"
 category: "Locations"
 source: "Locations/Lucky Leap Tavern.md"
+generated: true
 ---
 
 #Location

@@ -3,6 +3,7 @@ layout: wiki
 title: "Mia"
 category: "People"
 source: "People/Mia.md"
+generated: true
 ---
 
 #Character 

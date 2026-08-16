@@ -3,6 +3,7 @@ layout: wiki
 title: "The Countess"
 category: "People"
 source: "People/The Countess.md"
+generated: true
 ---
 
 #Character 

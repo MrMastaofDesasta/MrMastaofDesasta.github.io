@@ -3,6 +3,7 @@ layout: wiki
 title: "Nightmares"
 category: "Mysteries"
 source: "Mysteries/Nightmares.md"
+generated: true
 ---
 
 #Mystery

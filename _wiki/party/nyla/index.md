@@ -3,6 +3,7 @@ layout: wiki
 title: "Nyla"
 category: "Party"
 source: "Party/Nyla.md"
+generated: true
 ---
 
 #Playercharacter 

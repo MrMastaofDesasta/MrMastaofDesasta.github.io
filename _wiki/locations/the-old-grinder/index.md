@@ -3,6 +3,7 @@ layout: wiki
 title: "The Old Grinder"
 category: "Locations"
 source: "Locations/The Old Grinder.md"
+generated: true
 ---
 
 #Location 

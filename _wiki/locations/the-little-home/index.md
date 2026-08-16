@@ -3,6 +3,7 @@ layout: wiki
 title: "The Little Home"
 category: "Locations"
 source: "Locations/The Little Home.md"
+generated: true
 ---
 
 #Location 

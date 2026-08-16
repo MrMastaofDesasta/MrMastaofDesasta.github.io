@@ -3,6 +3,7 @@ layout: wiki
 title: "Couatl feather"
 category: "Objects"
 source: "Objects/Couatl feather.md"
+generated: true
 ---
 
 #Object

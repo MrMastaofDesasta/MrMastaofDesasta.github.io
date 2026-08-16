@@ -3,6 +3,7 @@ layout: wiki
 title: "Couatl"
 category: "Lore"
 source: "Lore/Couatl.md"
+generated: true
 ---
 
 #Lore

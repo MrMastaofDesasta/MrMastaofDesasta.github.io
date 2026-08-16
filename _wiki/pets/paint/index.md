@@ -3,6 +3,7 @@ layout: wiki
 title: "Paint"
 category: "Pets"
 source: "Pets/Paint.md"
+generated: true
 ---
 
 #Pet 

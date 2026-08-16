@@ -3,6 +3,7 @@ layout: wiki
 title: "Napping Giant"
 category: "Locations"
 source: "Locations/Napping Giant.md"
+generated: true
 ---
 
 #Location 

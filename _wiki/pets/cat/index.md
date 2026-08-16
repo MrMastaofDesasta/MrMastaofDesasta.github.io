@@ -3,6 +3,7 @@ layout: wiki
 title: "Cat"
 category: "Pets"
 source: "Pets/Cat.md"
+generated: true
 ---
 
 #Pet 

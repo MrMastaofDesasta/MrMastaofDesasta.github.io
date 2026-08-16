@@ -3,6 +3,7 @@ layout: wiki
 title: "Master Bertio Ranberd"
 category: "People"
 source: "People/Master Bertio Ranberd.md"
+generated: true
 ---
 
 #Character 

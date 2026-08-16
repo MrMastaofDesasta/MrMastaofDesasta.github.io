@@ -3,6 +3,7 @@ layout: wiki
 title: "Jean's mystery coin"
 category: "Objects"
 source: "Objects/Jean's mystery coin.md"
+generated: true
 ---
 
 #Object 

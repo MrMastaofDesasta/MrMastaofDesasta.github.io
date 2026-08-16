@@ -3,6 +3,7 @@ layout: wiki
 title: "Lord Cyne Monder"
 category: "People"
 source: "People/Lord Cyne Monder.md"
+generated: true
 ---
 
 #Character 

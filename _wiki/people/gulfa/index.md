@@ -3,6 +3,7 @@ layout: wiki
 title: "Gulfa"
 category: "People"
 source: "People/Gulfa.md"
+generated: true
 ---
 
 #Character 

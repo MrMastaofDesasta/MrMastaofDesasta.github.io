@@ -3,6 +3,7 @@ layout: wiki
 title: "Cult-like Activities"
 category: "Mysteries"
 source: "Mysteries/Cult-like Activities.md"
+generated: true
 ---
 
 #Mystery 

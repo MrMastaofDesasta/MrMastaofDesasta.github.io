@@ -3,6 +3,7 @@ layout: wiki
 title: "Arcane Tower"
 category: "Organizations"
 source: "Organizations/Arcane Tower.md"
+generated: true
 ---
 
 #Organization 

@@ -3,6 +3,7 @@ layout: wiki
 title: "The Shining Light and The Darkness Within"
 category: "Lore"
 source: "Lore/The Shining Light and The Darkness Within.md"
+generated: true
 ---
 
 #Deity

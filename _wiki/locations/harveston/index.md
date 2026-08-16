@@ -3,6 +3,7 @@ layout: wiki
 title: "Harveston"
 category: "Locations"
 source: "Locations/Harveston.md"
+generated: true
 ---
 
 #Location 

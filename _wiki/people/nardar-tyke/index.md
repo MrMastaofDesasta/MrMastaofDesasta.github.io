@@ -3,6 +3,7 @@ layout: wiki
 title: "Nardar Tyke"
 category: "People"
 source: "People/Nardar Tyke.md"
+generated: true
 ---
 
 #Character 

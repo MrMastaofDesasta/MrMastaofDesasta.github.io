@@ -3,6 +3,7 @@ layout: wiki
 title: "Were-Hellhound"
 category: "Lore"
 source: "Lore/Were-Hellhound.md"
+generated: true
 ---
 
 #Lore 

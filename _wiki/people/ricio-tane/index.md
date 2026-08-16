@@ -3,6 +3,7 @@ layout: wiki
 title: "Ricio Tane"
 category: "People"
 source: "People/Ricio Tane.md"
+generated: true
 ---
 
 #Character 

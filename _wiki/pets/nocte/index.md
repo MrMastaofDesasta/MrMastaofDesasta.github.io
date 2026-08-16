@@ -3,6 +3,7 @@ layout: wiki
 title: "Nocte"
 category: "Pets"
 source: "Pets/Nocte.md"
+generated: true
 ---
 
 #Pet 

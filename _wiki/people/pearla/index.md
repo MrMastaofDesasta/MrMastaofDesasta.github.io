@@ -3,6 +3,7 @@ layout: wiki
 title: "Pearla"
 category: "People"
 source: "People/Pearla.md"
+generated: true
 ---
 
 #Character 

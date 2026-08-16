@@ -3,6 +3,7 @@ layout: wiki
 title: "Lyla"
 category: "People"
 source: "People/Lyla.md"
+generated: true
 ---
 
 #Character 

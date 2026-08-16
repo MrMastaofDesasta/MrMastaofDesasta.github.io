@@ -3,6 +3,7 @@ layout: wiki
 title: "The Curse"
 category: "Lore"
 source: "Lore/The Curse.md"
+generated: true
 ---
 
 #Lore 

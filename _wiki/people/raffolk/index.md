@@ -3,6 +3,7 @@ layout: wiki
 title: "Raffolk"
 category: "People"
 source: "People/Raffolk.md"
+generated: true
 ---
 
 #Character 

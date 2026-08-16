@@ -3,6 +3,7 @@ layout: wiki
 title: "Etherial Cloister"
 category: "Locations"
 source: "Locations/Etherial Cloister.md"
+generated: true
 ---
 
 #Location 

@@ -3,6 +3,7 @@ layout: wiki
 title: "Queen Lyrencia"
 category: "People"
 source: "People/Queen Lyrencia.md"
+generated: true
 ---
 
 #Character 

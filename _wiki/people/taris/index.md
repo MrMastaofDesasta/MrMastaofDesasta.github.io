@@ -3,6 +3,7 @@ layout: wiki
 title: "Taris"
 category: "People"
 source: "People/Taris.md"
+generated: true
 ---
 
 #Character 

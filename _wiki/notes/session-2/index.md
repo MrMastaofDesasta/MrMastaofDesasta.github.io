@@ -3,6 +3,7 @@ layout: wiki
 title: "Session 2"
 category: "Notes"
 source: "Notes/Session 2.md"
+generated: true
 ---
 
 #Notes

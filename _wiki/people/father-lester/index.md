@@ -3,6 +3,7 @@ layout: wiki
 title: "Father Lester"
 category: "People"
 source: "People/Father Lester.md"
+generated: true
 ---
 
 #Character 

@@ -3,6 +3,7 @@ layout: wiki
 title: "Gorso Village"
 category: "Locations"
 source: "Locations/Gorso Village.md"
+generated: true
 ---
 
 #Location 

@@ -3,6 +3,7 @@ layout: wiki
 title: "King Dasmag"
 category: "People"
 source: "People/King Dasmag.md"
+generated: true
 ---
 
 #Character 

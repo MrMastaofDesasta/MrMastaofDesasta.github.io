@@ -3,6 +3,7 @@ layout: wiki
 title: "Vegabonds"
 category: "Organizations"
 source: "Organizations/Vegabonds.md"
+generated: true
 ---
 
 #Organization 

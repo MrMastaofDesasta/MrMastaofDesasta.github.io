@@ -3,6 +3,7 @@ layout: wiki
 title: "Kidnapping of Queen Lyrencia"
 category: "Events"
 source: "Events/Kidnapping of Queen Lyrencia.md"
+generated: true
 ---
 
 #Event 

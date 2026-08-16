@@ -3,6 +3,7 @@ layout: wiki
 title: "Throne Room"
 category: "Locations"
 source: "Locations/Throne Room.md"
+generated: true
 ---
 
 #Location 

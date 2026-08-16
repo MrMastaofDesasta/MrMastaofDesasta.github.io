@@ -3,6 +3,7 @@ layout: wiki
 title: "Royal Palace"
 category: "Locations"
 source: "Locations/Royal Palace.md"
+generated: true
 ---
 
 #Location 

@@ -3,6 +3,7 @@ layout: wiki
 title: "Old Gnarly"
 category: "People"
 source: "People/Old Gnarly.md"
+generated: true
 ---
 
 #Character 

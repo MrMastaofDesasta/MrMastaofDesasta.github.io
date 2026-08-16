@@ -3,6 +3,7 @@ layout: wiki
 title: "Strange Idol"
 category: "Objects"
 source: "Objects/Strange Idol.md"
+generated: true
 ---
 
 #Object 

@@ -3,6 +3,7 @@ layout: wiki
 title: "Master Arlen"
 category: "People"
 source: "People/Master Arlen.md"
+generated: true
 ---
 
 #Character 

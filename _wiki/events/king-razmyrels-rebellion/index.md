@@ -3,6 +3,7 @@ layout: wiki
 title: "King Razmyrel's Rebellion"
 category: "Events"
 source: "Events/King Razmyrel's Rebellion.md"
+generated: true
 ---
 
 #Event 

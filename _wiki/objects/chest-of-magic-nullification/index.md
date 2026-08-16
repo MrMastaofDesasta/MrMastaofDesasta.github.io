@@ -3,6 +3,7 @@ layout: wiki
 title: "Chest of Magic Nullification"
 category: "Objects"
 source: "Objects/Chest of Magic Nullification.md"
+generated: true
 ---
 
 #Object 

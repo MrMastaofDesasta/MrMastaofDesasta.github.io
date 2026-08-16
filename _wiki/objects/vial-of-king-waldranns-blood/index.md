@@ -3,6 +3,7 @@ layout: wiki
 title: "Vial of King Waldrann's Blood"
 category: "Objects"
 source: "Objects/Vial of King Waldrann's Blood.md"
+generated: true
 ---
 
 #Object 

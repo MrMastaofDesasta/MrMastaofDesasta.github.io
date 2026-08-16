@@ -3,6 +3,7 @@ layout: wiki
 title: "The Coronation of Aphina"
 category: "Events"
 source: "Events/The Coronation of Aphina.md"
+generated: true
 ---
 
 #Event 

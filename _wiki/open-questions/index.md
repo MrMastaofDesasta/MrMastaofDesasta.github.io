@@ -3,6 +3,7 @@ layout: wiki
 title: "Open Questions"
 category: "Other"
 source: "Open Questions.md"
+generated: true
 ---
 
 - What is the nature of the curse?

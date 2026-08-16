@@ -3,6 +3,7 @@ layout: wiki
 title: "Tattoo of the Queen's Supporters"
 category: "Mysteries"
 source: "Mysteries/Tattoo of the Queen's Supporters.md"
+generated: true
 ---
 
 #Lore 

@@ -3,6 +3,7 @@ layout: wiki
 title: "Jean's Apartment"
 category: "Locations"
 source: "Locations/Jean's Apartment.md"
+generated: true
 ---
 
 #Location 

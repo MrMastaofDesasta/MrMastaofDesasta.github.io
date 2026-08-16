@@ -3,6 +3,7 @@ layout: wiki
 title: "Rumlyn Family"
 category: "Organizations"
 source: "Organizations/Rumlyn Family.md"
+generated: true
 ---
 
 #Organization 

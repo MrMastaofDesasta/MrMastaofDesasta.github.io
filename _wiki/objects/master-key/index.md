@@ -3,6 +3,7 @@ layout: wiki
 title: "Master Key"
 category: "Objects"
 source: "Objects/Master Key.md"
+generated: true
 ---
 
 #Object 

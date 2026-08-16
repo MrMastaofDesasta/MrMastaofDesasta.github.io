@@ -3,6 +3,7 @@ layout: wiki
 title: "Age of Brightness"
 category: "Lore"
 source: "Lore/Age of Brightness.md"
+generated: true
 ---
 
 #Lore 

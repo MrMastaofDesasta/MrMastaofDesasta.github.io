@@ -3,6 +3,7 @@ layout: wiki
 title: "Nyla's POV"
 category: "Notes"
 source: "Notes/Nyla's POV.md"
+generated: true
 ---
 
 The rain had picked up by the time Nyla separated from the rest of the party, leaving Brush and Urgo to return to the Lucky Leap tavern by themselves. It would be fine, she told herself, these two may have no sense of direction, but the tavern was more or less just down the street, and she had explained the way as best as she could. If only Leon had been with them, she might have been feeling a bit less uneasy, but he had snuck off somewhere. 

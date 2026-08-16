@@ -3,6 +3,7 @@ layout: wiki
 title: "Emporium of Marvelous Rarities"
 category: "Locations"
 source: "Locations/Emporium of Marvelous Rarities.md"
+generated: true
 ---
 
 #Location 

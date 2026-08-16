@@ -3,6 +3,7 @@ layout: wiki
 title: "Cursed Rain"
 category: "Mysteries"
 source: "Mysteries/Cursed Rain.md"
+generated: true
 ---
 
 #Mystery 

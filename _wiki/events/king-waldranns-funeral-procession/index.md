@@ -3,6 +3,7 @@ layout: wiki
 title: "King Waldrann's Funeral Procession"
 category: "Events"
 source: "Events/King Waldrann's Funeral Procession.md"
+generated: true
 ---
 
 #Event 

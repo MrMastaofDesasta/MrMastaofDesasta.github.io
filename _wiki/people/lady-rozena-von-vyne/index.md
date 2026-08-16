@@ -3,6 +3,7 @@ layout: wiki
 title: "Lady Rozena von Vyne"
 category: "People"
 source: "People/Lady Rozena von Vyne.md"
+generated: true
 ---
 
 #Character 

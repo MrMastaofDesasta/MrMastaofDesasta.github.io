@@ -3,6 +3,7 @@ layout: wiki
 title: "Nightmare Coin"
 category: "Objects"
 source: "Objects/Nightmare Coin.md"
+generated: true
 ---
 
 #Object 

@@ -3,6 +3,7 @@ layout: wiki
 title: "Lord Kiryn"
 category: "People"
 source: "People/Lord Kiryn.md"
+generated: true
 ---
 
 #Character 

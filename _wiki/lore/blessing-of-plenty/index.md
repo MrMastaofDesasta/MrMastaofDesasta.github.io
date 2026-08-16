@@ -3,6 +3,7 @@ layout: wiki
 title: "Blessing of Plenty"
 category: "Lore"
 source: "Lore/Blessing of Plenty.md"
+generated: true
 ---
 
 #Lore 

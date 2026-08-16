@@ -3,6 +3,7 @@ layout: wiki
 title: "The Sanctuary"
 category: "Locations"
 source: "Locations/The Sanctuary.md"
+generated: true
 ---
 
 #Location 

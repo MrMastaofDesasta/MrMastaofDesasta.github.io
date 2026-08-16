@@ -3,6 +3,7 @@ layout: wiki
 title: "Prince Krasnar"
 category: "People"
 source: "People/Prince Krasnar.md"
+generated: true
 ---
 
 #Character 

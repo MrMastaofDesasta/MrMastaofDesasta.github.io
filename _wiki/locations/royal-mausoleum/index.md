@@ -3,6 +3,7 @@ layout: wiki
 title: "Royal Mausoleum"
 category: "Locations"
 source: "Locations/Royal Mausoleum.md"
+generated: true
 ---
 
 #Location 

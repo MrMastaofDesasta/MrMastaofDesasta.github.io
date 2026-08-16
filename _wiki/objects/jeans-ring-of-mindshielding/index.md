@@ -3,6 +3,7 @@ layout: wiki
 title: "Jean's Ring of Mindshielding"
 category: "Objects"
 source: "Objects/Jean's Ring of Mindshielding.md"
+generated: true
 ---
 
 #Object 

@@ -3,6 +3,7 @@ layout: wiki
 title: "Father Gibbson"
 category: "People"
 source: "People/Father Gibbson.md"
+generated: true
 ---
 
 #Character 

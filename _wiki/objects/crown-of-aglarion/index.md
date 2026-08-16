@@ -3,6 +3,7 @@ layout: wiki
 title: "Crown of Aglarion"
 category: "Objects"
 source: "Objects/Crown of Aglarion.md"
+generated: true
 ---
 
 #Object 

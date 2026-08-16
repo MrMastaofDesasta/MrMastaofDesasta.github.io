@@ -3,6 +3,7 @@ layout: wiki
 title: "Father Kalozark Solamyr"
 category: "People"
 source: "People/Father Kalozark Solamyr.md"
+generated: true
 ---
 
 #Character 

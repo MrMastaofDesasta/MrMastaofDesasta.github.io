@@ -3,6 +3,7 @@ layout: wiki
 title: "Party's House"
 category: "Locations"
 source: "Locations/Party's House.md"
+generated: true
 ---
 
 #Location 

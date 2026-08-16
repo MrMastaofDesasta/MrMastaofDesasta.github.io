@@ -3,6 +3,7 @@ layout: wiki
 title: "Death of Prince Krasnar"
 category: "Events"
 source: "Events/Death of Prince Krasnar.md"
+generated: true
 ---
 
 #Event 

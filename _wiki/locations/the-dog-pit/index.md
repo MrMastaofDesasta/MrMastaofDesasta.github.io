@@ -3,6 +3,7 @@ layout: wiki
 title: "The Dog Pit"
 category: "Locations"
 source: "Locations/The Dog Pit.md"
+generated: true
 ---
 
 #Location 
