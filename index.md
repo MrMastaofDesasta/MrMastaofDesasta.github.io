@@ -22,7 +22,7 @@ Welcome to the campaign wiki.
   <a href="/people/" class="wiki-category-link">
     People
   </a>
-  <span class="wiki-category-count">38 pages</span>
+  <span class="wiki-category-count">39 pages</span>
 </div>
 
 <div class="wiki-category-card">
@@ -50,7 +50,7 @@ Welcome to the campaign wiki.
   <a href="/lore/" class="wiki-category-link">
     Lore
   </a>
-  <span class="wiki-category-count">9 pages</span>
+  <span class="wiki-category-count">10 pages</span>
 </div>
 
 <div class="wiki-category-card">
@@ -64,7 +64,7 @@ Welcome to the campaign wiki.
   <a href="/objects/" class="wiki-category-link">
     Objects
   </a>
-  <span class="wiki-category-count">10 pages</span>
+  <span class="wiki-category-count">11 pages</span>
 </div>
 
 <div class="wiki-category-card">

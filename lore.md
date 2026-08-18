@@ -19,5 +19,6 @@ generated: true
 <a class="wiki-list-item" href="/lore/the-curse/"><span class="wiki-list-title">The Curse</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/lore/the-shining-light-and-the-darkness-within/"><span class="wiki-list-title">The Shining Light and The Darkness Within</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/lore/were-hellhound/"><span class="wiki-list-title">Were-Hellhound</span><span class="wiki-list-arrow">→</span></a>
+<a class="wiki-list-item" href="/lore/ziggurat-of-the-new-moon/"><span class="wiki-list-title">Ziggurat of the New Moon</span><span class="wiki-list-arrow">→</span></a>
 
 </div>
