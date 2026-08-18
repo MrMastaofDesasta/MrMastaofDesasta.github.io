@@ -7,5 +7,5 @@ permalink: "/people/nardar-tyke/"
 generated: true
 ---
 
-Royal Architect who knows about the love tunnels leading into the castle.
+Royal Architect who knows about the love tunnels leading into the castle.  
 A member of the <a class="wiki-link" href="/organizations/vegabonds/">Vegabonds</a>.

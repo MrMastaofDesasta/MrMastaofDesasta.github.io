@@ -7,5 +7,5 @@ permalink: "/people/master-aiden/"
 generated: true
 ---
 
-The former archmage of the <a class="wiki-link" href="/organizations/arcane-tower/">Arcane Tower</a> who went with <a class="wiki-link" href="/people/king-waldrann-azennar/">King Waldrann Azennar</a> to the <a class="wiki-link" href="/events/kidnapping-of-queen-lyrencia/">Kidnapping of Queen Lyrencia</a>. 
+The former archmage of the <a class="wiki-link" href="/organizations/arcane-tower/">Arcane Tower</a> who went with <a class="wiki-link" href="/people/king-waldrann-azennar/">King Waldrann Azennar</a> to the <a class="wiki-link" href="/events/kidnapping-of-queen-lyrencia/">Kidnapping of Queen Lyrencia</a>.  
 Current Fate unknown.

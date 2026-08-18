@@ -7,5 +7,5 @@ permalink: "/people/jeagan/"
 generated: true
 ---
 
-The royal chef
+The royal chef  
 Female I think

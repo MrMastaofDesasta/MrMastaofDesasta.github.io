@@ -7,5 +7,5 @@ permalink: "/people/taris/"
 generated: true
 ---
 
-Apparent leader of the <a class="wiki-link" href="/organizations/vegabonds/">Vegabonds</a>.
+Apparent leader of the <a class="wiki-link" href="/organizations/vegabonds/">Vegabonds</a>.  
 Very large human woman.

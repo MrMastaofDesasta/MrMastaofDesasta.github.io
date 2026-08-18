@@ -7,6 +7,6 @@ permalink: "/locations/the-old-grinder/"
 generated: true
 ---
 
-Old Windmill.
-The Rumlyn family was held and largely killed here
+Old Windmill.  
+The Rumlyn family was held and largely killed here  
 Ritual site (see <a class="wiki-link" href="/notes/session-2/">Session 2</a>)
