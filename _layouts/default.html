@@ -12,16 +12,25 @@
 <body>
   <div class="site-shell">
 
-    <header class="site-header">
-      <div class="site-header-inner">
-        <a class="site-title" href="{{ '/' | relative_url }}">
-          Campaign Wiki
+    <header class="wiki-header">
+        <a href="{{ '/' | relative_url }}" class="site-title">
+            Crown of the Oathbreaker Wiki
         </a>
 
-        <nav class="site-nav" aria-label="Main navigation">
-          <a href="{{ '/' | relative_url }}">Home</a>
-        </nav>
-      </div>
+        <div class="wiki-search">
+            <input
+                type="search"
+                id="wiki-search-input"
+                placeholder="Search the wiki..."
+                autocomplete="off"
+            >
+
+            <div
+                id="wiki-search-results"
+                class="wiki-search-results"
+                hidden
+            ></div>
+        </div>
     </header>
 
     <div class="site-layout">
@@ -77,5 +86,6 @@
     </footer>
 
   </div>
+  <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
 </body>
 </html>

@@ -42,23 +42,138 @@ a:hover {
 
 .site-shell { min-height: 100vh; }
 
-.site-header {
-  position: sticky;
-  top: 0;
-  z-index: 20;
-  border-bottom: 1px solid var(--border);
-  background: rgba(23, 21, 18, 0.96);
-  backdrop-filter: blur(8px);
+.wiki-header {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+    gap: 2rem;
 }
 
-.site-header-inner {
-  max-width: var(--content-width);
-  margin: 0 auto;
-  padding: 14px 24px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 24px;
+.wiki-header .site-title {
+    flex: 0 0 auto;
+}
+
+/* Search box */
+.wiki-header .wiki-search {
+    position: relative;
+    flex: 0 0 280px;
+    width: 280px;
+}
+
+.wiki-search input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.5rem 0.75rem;
+
+    font: inherit;
+    font-size: 0.9rem;
+
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    background: var(--background-color);
+    color: var(--text-color);
+}
+
+.wiki-search input:focus {
+    outline: none;
+    border-color: var(--link-color);
+}
+
+
+/* Search results dropdown */
+.wiki-search-results {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    left: 0;
+    right: 0;
+
+    z-index: 1000;
+
+    max-height: 500px;
+    overflow-y: auto;
+
+    background: var(--background-color);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+
+/* Individual result */
+.wiki-search-result {
+    display: block;
+    padding: 0.7rem 0.8rem;
+
+    text-decoration: none;
+    color: var(--text-color);
+
+    border-bottom: 1px solid var(--border-color);
+}
+
+.wiki-search-result:last-child {
+    border-bottom: none;
+}
+
+.wiki-search-result:hover {
+    background: var(--code-background-color);
+}
+
+
+/* Result title */
+.wiki-search-result-title {
+    font-weight: bold;
+}
+
+
+/* Category underneath the title */
+.wiki-search-result-category {
+    margin-top: 0.15rem;
+
+    font-size: 0.8rem;
+    opacity: 0.7;
+}
+
+
+/* "Links to..." information for related results */
+.wiki-search-result-links {
+    margin-top: 0.3rem;
+
+    font-size: 0.8rem;
+    opacity: 0.75;
+}
+
+
+/* Section headings: "Pages" and "Related pages" */
+.wiki-search-heading {
+    padding: 0.5rem 0.8rem;
+
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+
+    opacity: 0.65;
+}
+
+
+/* No-results message */
+.wiki-search-no-results {
+    padding: 0.8rem;
+
+    font-size: 0.9rem;
+}
+
+
+/* Small-screen adjustment */
+@media (max-width: 600px) {
+    .wiki-header .wiki-search {
+        flex: 0 1 200px;
+        width: 200px;
+    }
 }
 
 .site-title,
@@ -69,7 +184,7 @@ a:hover {
   color: var(--gold-bright);
 }
 
-.site-title { font-size: 1.1rem; }
+.site-title { font-size: 1.6rem; }
 
 .site-nav {
   display: flex;
