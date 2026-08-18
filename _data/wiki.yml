@@ -338,6 +338,8 @@ categories:
         url: "/notes/session-18/"
       - title: "Session 19"
         url: "/notes/session-19/"
+      - title: "Session 20"
+        url: "/notes/session-20/"
   - name: "Other"
     source_name: "Other"
     slug: "other"

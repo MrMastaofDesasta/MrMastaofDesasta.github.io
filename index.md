@@ -78,7 +78,7 @@ Welcome to the campaign wiki.
   <a href="/notes/" class="wiki-category-link">
     Session Notes
   </a>
-  <span class="wiki-category-count">19 pages</span>
+  <span class="wiki-category-count">20 pages</span>
 </div>
 
 <div class="wiki-category-card">

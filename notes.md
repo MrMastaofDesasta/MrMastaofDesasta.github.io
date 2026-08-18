@@ -29,5 +29,6 @@ generated: true
 <a class="wiki-list-item" href="/notes/session-17/"><span class="wiki-list-title">Session 17</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/notes/session-18/"><span class="wiki-list-title">Session 18</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/notes/session-19/"><span class="wiki-list-title">Session 19</span><span class="wiki-list-arrow">→</span></a>
+<a class="wiki-list-item" href="/notes/session-20/"><span class="wiki-list-title">Session 20</span><span class="wiki-list-arrow">→</span></a>
 
 </div>
