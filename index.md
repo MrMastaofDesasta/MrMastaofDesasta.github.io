@@ -15,14 +15,14 @@ Welcome to the campaign wiki.
   <a href="/party/" class="wiki-category-link">
     Party
   </a>
-  <span class="wiki-category-count">5 pages</span>
+  <span class="wiki-category-count">4 pages</span>
 </div>
 
 <div class="wiki-category-card">
   <a href="/people/" class="wiki-category-link">
     People
   </a>
-  <span class="wiki-category-count">39 pages</span>
+  <span class="wiki-category-count">38 pages</span>
 </div>
 
 <div class="wiki-category-card">

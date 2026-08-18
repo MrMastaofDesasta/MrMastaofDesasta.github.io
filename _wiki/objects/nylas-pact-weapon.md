@@ -7,4 +7,4 @@ permalink: "/objects/nylas-pact-weapon/"
 generated: true
 ---
 
-A weapon which Nyla received from <a class="wiki-link" href="/people/lady-rozena-von-vyne/">Lady Rozena von Vyne</a>, and found in her hideout in the <a class="wiki-link" href="/locations/thornwood-woods/">Thornwood Woods</a>.
+A weapon which Nyla received from <span class="wiki-unresolved" title="No page exists for this reference">Lady Rozena von Vyne</span>, and found in her hideout in the <a class="wiki-link" href="/locations/thornwood-woods/">Thornwood Woods</a>.

@@ -21,4 +21,4 @@ Notable objects inside are models of:
     - <span class="wiki-unresolved" title="No page exists for this reference">Daedal Wright</span>, a multifunction construction golem.
     - <a class="wiki-link" href="/organizations/arcane-tower/">Arcane Tower</a>, the figurative model of the building.
 
-A ceiling map depicts a <span class="wiki-unresolved" title="No page exists for this reference">Ziggurat</span> which is not shown on any other map of the kingdom which <a class="wiki-link" href="/party/nyla/">Nyla</a> recognized.
+A ceiling map depicts a <span class="wiki-unresolved" title="No page exists for this reference">Ziggurat</span> which is not shown on any other map of the kingdom which <span class="wiki-unresolved" title="No page exists for this reference">Nyla</span> recognized.

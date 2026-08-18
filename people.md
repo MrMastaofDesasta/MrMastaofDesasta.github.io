@@ -28,7 +28,6 @@ generated: true
 <a class="wiki-list-item" href="/people/king-dasmag/"><span class="wiki-list-title">King Dasmag</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/king-waldrann-azennar/"><span class="wiki-list-title">King Waldrann Azennar</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/lady-finia/"><span class="wiki-list-title">Lady Finia</span><span class="wiki-list-arrow">→</span></a>
-<a class="wiki-list-item" href="/people/lady-rozena-von-vyne/"><span class="wiki-list-title">Lady Rozena von Vyne</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/lord-cyne-monder/"><span class="wiki-list-title">Lord Cyne Monder</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/lord-kiryn/"><span class="wiki-list-title">Lord Kiryn</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/lord-rumlyn/"><span class="wiki-list-title">Lord Rumlyn</span><span class="wiki-list-arrow">→</span></a>

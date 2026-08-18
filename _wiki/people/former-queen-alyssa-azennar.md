@@ -9,5 +9,5 @@ generated: true
 
 Former Queen, now dead
 Surprisingly sheltered
-Friends with <a class="wiki-link" href="/people/lady-rozena-von-vyne/">Lady Rozena von Vyne</a>
+Friends with <span class="wiki-unresolved" title="No page exists for this reference">Lady Rozena von Vyne</span>
 Apparently now turned into an <a class="wiki-link" href="/lore/erinyes/">Erinyes</a> following her death.

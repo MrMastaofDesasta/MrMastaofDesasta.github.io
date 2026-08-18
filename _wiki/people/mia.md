@@ -7,4 +7,4 @@ permalink: "/people/mia/"
 generated: true
 ---
 
-Acquintance of <a class="wiki-link" href="/party/nyla/">Nyla</a> in the <a class="wiki-link" href="/organizations/church-of-the-redeemer/">Church of the Redeemer</a>
+Acquintance of <span class="wiki-unresolved" title="No page exists for this reference">Nyla</span> in the <a class="wiki-link" href="/organizations/church-of-the-redeemer/">Church of the Redeemer</a>

@@ -11,6 +11,6 @@ Princess Aphina is an apparently very mischievous and arrogant person. She place
 
 Urgo threw one of her foul smelling potions at her carriage.
 
-<a class="wiki-link" href="/people/lady-rozena-von-vyne/">Lady Rozena von Vyne</a> has a negative attitude towards her
+<span class="wiki-unresolved" title="No page exists for this reference">Lady Rozena von Vyne</span> has a negative attitude towards her
 
 She is apparently behind <a class="wiki-link" href="/lore/the-curse/">The Curse</a>

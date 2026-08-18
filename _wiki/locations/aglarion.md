@@ -7,4 +7,4 @@ permalink: "/locations/aglarion/"
 generated: true
 ---
 
-!<span class="wiki-unresolved" title="No page exists for this reference">Pasted image 20260521200444.png</span>
+![Pasted image 20260521200444.png](/assets/images/Pasted image 20260521200444.png)

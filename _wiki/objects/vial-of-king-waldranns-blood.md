@@ -7,4 +7,4 @@ permalink: "/objects/vial-of-king-waldranns-blood/"
 generated: true
 ---
 
-<a class="wiki-link" href="/party/nyla/">Nyla</a> picked this up following the <a class="wiki-link" href="/events/murder-of-king-waldrann/">Murder of King Waldrann</a> in case it might become important for the investigation.
+<span class="wiki-unresolved" title="No page exists for this reference">Nyla</span> picked this up following the <a class="wiki-link" href="/events/murder-of-king-waldrann/">Murder of King Waldrann</a> in case it might become important for the investigation.
