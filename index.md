@@ -50,7 +50,7 @@ Welcome to the campaign wiki.
   <a href="/lore/" class="wiki-category-link">
     Lore
   </a>
-  <span class="wiki-category-count">10 pages</span>
+  <span class="wiki-category-count">11 pages</span>
 </div>
 
 <div class="wiki-category-card">

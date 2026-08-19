@@ -463,6 +463,15 @@
     ]
   },
   {
+    "title": "The Inevitable",
+    "aliases": [],
+    "category": "Lore",
+    "url": "/lore/the-inevitable/",
+    "links": [
+      "Nyla"
+    ]
+  },
+  {
     "title": "The Shining Light and The Darkness Within",
     "aliases": [],
     "category": "Lore",
@@ -925,10 +934,23 @@
     "category": "Notes",
     "url": "/notes/session-20/",
     "links": [
-      "Lord Cyne Monder",
-      "Lord Kiryn",
+      "Jean's Apartment",
+      "Ricio Tane|Ricio",
+      "Lucky Leap Tavern|Tavern",
+      "Lady Rozena von Vyne|Rozena",
+      "Lord Cyne Monder|Monder",
+      "Lord Kiryn|Kiryn",
+      "Lady Finia",
+      "Lady Rozena von Vyne|Rozena",
+      "The Inevitable",
       "Gratus Ultio",
+      "Jeagan",
+      "Princess Aphina|Aphina",
+      "Aglarion",
+      "Lord Monder's Key",
+      "Doppelganger",
       "Golden Masks",
+      "Magical Lightning",
       "Jeagan",
       "Trix",
       "Strange Organization's Tattoo",
@@ -1194,7 +1216,9 @@
     "category": "Objects",
     "url": "/objects/jeans-mystery-coin/",
     "links": [
-      "Jean"
+      "Jean",
+      "Session 20",
+      "Golden Masks"
     ]
   },
   {
@@ -1320,7 +1344,9 @@
     "aliases": [],
     "category": "Organizations",
     "url": "/organizations/golden-masks/",
-    "links": []
+    "links": [
+      "Doppelganger"
+    ]
   },
   {
     "title": "House Gorso",
@@ -1590,7 +1616,9 @@
   },
   {
     "title": "Lord Cyne Monder",
-    "aliases": [],
+    "aliases": [
+      "Monder"
+    ],
     "category": "People",
     "url": "/people/lord-cyne-monder/",
     "links": [
@@ -1606,7 +1634,9 @@
   },
   {
     "title": "Lord Kiryn",
-    "aliases": [],
+    "aliases": [
+      "Kiryn"
+    ],
     "category": "People",
     "url": "/people/lord-kiryn/",
     "links": [
@@ -1779,7 +1809,9 @@
   },
   {
     "title": "Ricio Tane",
-    "aliases": [],
+    "aliases": [
+      "Ricio"
+    ],
     "category": "People",
     "url": "/people/ricio-tane/",
     "links": [
