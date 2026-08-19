@@ -347,5 +347,7 @@ categories:
     slug: "other"
     url: "/other/"
     pages:
+      - title: "Hex Lightning"
+        url: "/other/hex-lightning/"
       - title: "Open Questions"
         url: "/other/open-questions/"
