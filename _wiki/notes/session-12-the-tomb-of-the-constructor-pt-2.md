@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 12"
+title: "Session 12 (The Tomb of the Constructor pt 2)"
 category: "Notes"
-source: "Notes/Session 12.md"
-permalink: "/notes/session-12/"
+source: "Notes/Session 12 (The Tomb of the Constructor pt 2).md"
+permalink: "/notes/session-12-the-tomb-of-the-constructor-pt-2/"
 generated: true
 ---
 
@@ -18,5 +18,5 @@ Nyla examined the furnace and discovered it was powered by a trapped fire elemen
   
 Back in <a class="wiki-link" href="/locations/onadbyr/">Onadbyr</a>, the party made plans to break into the <a class="wiki-link" href="/locations/emporium-of-marvelous-rarities/">Emporium of Marvelous Rarities</a>. The antimagic vault beneath it remains the only safe place to open the <a class="wiki-link" href="/objects/chest-of-magic-nullification/">Chest of Magic Nullification</a> and deal with the <a class="wiki-link" href="/objects/strange-idol/">Strange Idol</a> inside.  
   
-Previous: <a class="wiki-link" href="/notes/session-11/">Session 11</a>  
-Next: <a class="wiki-link" href="/notes/session-13/">Session 13</a>
+Previous: <a class="wiki-link" href="/notes/session-11-the-tomb-of-the-constructor-pt-1/">Session 11 (The Tomb of the Constructor pt 1)</a>  
+Next: <a class="wiki-link" href="/notes/session-13-the-emporium-of-marvelous-rarities-pt-1/">Session 13 (The Emporium of Marvelous Rarities pt 1)</a>

@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 9"
+title: "Session 9 (Aphina's Betrayal pt 2)"
 category: "Notes"
-source: "Notes/Session 9.md"
-permalink: "/notes/session-9/"
+source: "Notes/Session 9 (Aphina's Betrayal pt 2).md"
+permalink: "/notes/session-9-aphinas-betrayal-pt-2/"
 generated: true
 ---
 
@@ -43,5 +43,5 @@ Quote
   
 The <a class="wiki-link" href="/organizations/children-of-the-coven/">Children of the Coven</a> will supposedly keep an eye out to make sure that her laws will be followed. She then turned towards the <a class="wiki-link" href="/organizations/knights-of-the-crown/">Knights of the Crown</a> and offered them power beyond comprehension if they swore loyalty to her. The ones that agreed turned into a <a class="wiki-link" href="/lore/were-hellhound/">Were-Hellhound</a>. <a class="wiki-link" href="/people/lord-cyne-monder/">Lord Cyne Monder</a> disobeyed and rushed towards her.  
   
-Previous Session: <a class="wiki-link" href="/notes/session-8/">Session 8</a>  
-Next Session: <a class="wiki-link" href="/notes/session-10/">Session 10</a>
+Previous Session: <a class="wiki-link" href="/notes/session-8-aphinas-betrayal-pt-1/">Session 8 (Aphina&#x27;s Betrayal pt 1)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-10-aphinas-betrayal-pt-3/">Session 10 (Aphina&#x27;s Betrayal pt 3)</a>

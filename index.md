@@ -71,7 +71,7 @@ Welcome to the campaign wiki.
   <a href="/mysteries/" class="wiki-category-link">
     Mysteries
   </a>
-  <span class="wiki-category-count">7 pages</span>
+  <span class="wiki-category-count">8 pages</span>
 </div>
 
 <div class="wiki-category-card">
@@ -85,7 +85,7 @@ Welcome to the campaign wiki.
   <a href="/other/" class="wiki-category-link">
     Other
   </a>
-  <span class="wiki-category-count">2 pages</span>
+  <span class="wiki-category-count">1 page</span>
 </div>
 
 </div>

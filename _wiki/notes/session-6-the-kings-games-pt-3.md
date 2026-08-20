@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 6"
+title: "Session 6 (The King's Games pt 3)"
 category: "Notes"
-source: "Notes/Session 6.md"
-permalink: "/notes/session-6/"
+source: "Notes/Session 6 (The King's Games pt 3).md"
+permalink: "/notes/session-6-the-kings-games-pt-3/"
 generated: true
 ---
 
@@ -21,5 +21,5 @@ At the location of the Leap of Death, Nyla and Jean spot a royal looking person 
 At the end, an announcement was made for the final event, the Battle of Champions, to begin in 3 hours.  
   
   
-Previous Session: <a class="wiki-link" href="/notes/session-5/">Session 5</a>  
-Next Session: <a class="wiki-link" href="/notes/session-7/">Session 7</a>
+Previous Session: <a class="wiki-link" href="/notes/session-5-the-kings-games-pt-2/">Session 5 (The King&#x27;s Games pt 2)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-7-the-kings-games-pt-4/">Session 7 (The King&#x27;s Games pt 4)</a>

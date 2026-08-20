@@ -21,4 +21,7 @@ generated: true
 	- People in the city screaming from the commotion  
 - Who was watching us during the Old Gnarly fight?  
 - What was the language the Vegabonds spoke?  
-	- Rozena seemed to recognize it and was surprised at hearing it
+	- Rozena seemed to recognize it and was surprised at hearing it  
+- Is Jean a member of the Golden Masks? What is the nature of this organization?  
+- Why did Amaterasu suddenly die when Nyla prayed? And why did it seemingly start turning into a skeleton from the moment it met Nyla?  
+- What do the sets of three have to do with all of it?

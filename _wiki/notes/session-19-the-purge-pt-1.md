@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 19"
+title: "Session 19 (The Purge pt 1)"
 category: "Notes"
-source: "Notes/Session 19.md"
-permalink: "/notes/session-19/"
+source: "Notes/Session 19 (The Purge pt 1).md"
+permalink: "/notes/session-19-the-purge-pt-1/"
 generated: true
 ---
 
@@ -74,5 +74,5 @@ When Jean and Leon came out of the building, they loaded up the bodies on a tabl
 Once snuck inside the apartment, Jean placed Nyla, <a class="wiki-link" href="/people/lady-finia/">Lady Finia</a>, and <a class="wiki-link" href="/people/lord-kiryn/">Lord Kiryn</a> in the bedroom, while they, Urgo, Brush, and Leon remained in the living room with the corpses of <a class="wiki-link" href="/people/gratus-ultio/">Gratus Ultio</a>, <a class="wiki-link" href="/people/lord-cyne-monder/">Lord Cyne Monder</a>, and <a class="wiki-link" href="/people/ricio-tane/">Ricio Tane</a>. <a class="wiki-link" href="/people/jeagan/">Jeagan</a> seemed to still be alive, though she didn't respond to healing magic and her survival was unclear, being in an odd state. <a class="wiki-link" href="/people/evra/">Evra</a> sat in a corner, oddly quiet for her.  
 Before bedtime, Jean made a quick dinner and left it open for anyone who would wake up hungry in the night. Brush made a quick painting of today's events before going to sleep. Leon received a message telling him that his parents are asking if he is okay. Jean plans to stay up the entire night to stand guard. The day came to a close with everyone exhausted and tired, their minds bearing scars from loss and tragedy, some larger, some smaller, but none were spared.  
   
-Previous Session: <a class="wiki-link" href="/notes/session-18/">Session 18</a>  
-Next Session: <a class="wiki-link" href="/notes/session-20/">Session 20</a>
+Previous Session: <a class="wiki-link" href="/notes/session-18-the-monster-menagerie-pt-3/">Session 18 (The Monster Menagerie pt 3)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-20-the-purge-pt-2/">Session 20 (The Purge pt 2)</a>

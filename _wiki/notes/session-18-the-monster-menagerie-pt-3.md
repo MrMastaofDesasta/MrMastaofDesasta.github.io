@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 18"
+title: "Session 18 (The Monster Menagerie pt 3)"
 category: "Notes"
-source: "Notes/Session 18.md"
-permalink: "/notes/session-18/"
+source: "Notes/Session 18 (The Monster Menagerie pt 3).md"
+permalink: "/notes/session-18-the-monster-menagerie-pt-3/"
 generated: true
 ---
 
@@ -55,5 +55,5 @@ Please don't go there...
   
 Note: Got an extra inspiration for roleplay, currently two  
   
-Previous Session: <a class="wiki-link" href="/notes/session-17/">Session 17</a>  
-Next Session: <a class="wiki-link" href="/notes/session-19/">Session 19</a>
+Previous Session: <a class="wiki-link" href="/notes/session-17-the-monster-menagerie-pt-2/">Session 17 (The Monster Menagerie pt 2)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-19-the-purge-pt-1/">Session 19 (The Purge pt 1)</a>

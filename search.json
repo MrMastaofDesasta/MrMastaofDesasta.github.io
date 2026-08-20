@@ -1,14 +1,5 @@
 [
   {
-    "title": "Hex Lightning",
-    "aliases": [],
-    "category": "Other",
-    "url": "/other/hex-lightning/",
-    "links": [
-      "The Curse"
-    ]
-  },
-  {
     "title": "Open Questions",
     "aliases": [],
     "category": "Other",
@@ -116,8 +107,8 @@
       "Princess Aphina",
       "King Waldrann's Funeral Procession",
       "The Curse",
-      "Session 9",
-      "Session 10"
+      "Session 9 (Aphina's Betrayal pt 2)",
+      "Session 10 (Aphina's Betrayal pt 3)"
     ]
   },
   {
@@ -336,7 +327,7 @@
     "category": "Locations",
     "url": "/locations/the-old-grinder/",
     "links": [
-      "Session 2"
+      "Session 2 (The Old Grinder pt 1)"
     ]
   },
   {
@@ -408,7 +399,7 @@
       "Crown of Aglarion",
       "King Dasmag",
       "Aglarion",
-      "Session 10",
+      "Session 10 (Aphina's Betrayal pt 3)",
       "Princess Aphina",
       "The Curse"
     ]
@@ -531,6 +522,15 @@
     ]
   },
   {
+    "title": "Hex Lightning",
+    "aliases": [],
+    "category": "Mysteries",
+    "url": "/mysteries/hex-lightning/",
+    "links": [
+      "The Curse"
+    ]
+  },
+  {
     "title": "New Purple",
     "aliases": [],
     "category": "Mysteries",
@@ -547,13 +547,13 @@
     "category": "Mysteries",
     "url": "/mysteries/nightmares/",
     "links": [
-      "Session 2",
+      "Session 2 (The Old Grinder pt 1)",
       "3 Suns",
       "Set of Three",
       "Gold Fish",
       "Nightmare Coin",
       "Silvery Vein-like Embossments",
-      "Session 4",
+      "Session 4 (The King's Games pt 1)",
       "Tiny Pyramid",
       "The Matrons"
     ]
@@ -584,10 +584,10 @@
     ]
   },
   {
-    "title": "Session 1",
+    "title": "Session 1 (Prologue)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-1/",
+    "url": "/notes/session-1-prologue/",
     "links": [
       "King's Games",
       "Lucky Leap Tavern",
@@ -609,14 +609,14 @@
       "Royal Stud Farm",
       "Miss Ivory",
       "Lord Rumlyn",
-      "Session 2"
+      "Session 2 (The Old Grinder pt 1)"
     ]
   },
   {
-    "title": "Session 10",
+    "title": "Session 10 (Aphina's Betrayal pt 3)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-10/",
+    "url": "/notes/session-10-aphinas-betrayal-pt-3/",
     "links": [
       "Throne Room",
       "The Coronation of Aphina",
@@ -668,15 +668,15 @@
       "Nardar Tyke",
       "The Dawn of The Ages",
       "Chest of Magic Nullification",
-      "Session 9",
-      "Session 11"
+      "Session 9 (Aphina's Betrayal pt 2)",
+      "Session 11 (The Tomb of the Constructor pt 1)"
     ]
   },
   {
-    "title": "Session 11",
+    "title": "Session 11 (The Tomb of the Constructor pt 1)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-11/",
+    "url": "/notes/session-11-the-tomb-of-the-constructor-pt-1/",
     "links": [
       "Tomb of Master Arlen",
       "Party's House",
@@ -694,15 +694,15 @@
       "Master Arlen",
       "Couatl feather",
       "Feather of Detection",
-      "Session 10",
-      "Session 12"
+      "Session 10 (Aphina's Betrayal pt 3)",
+      "Session 12 (The Tomb of the Constructor pt 2)"
     ]
   },
   {
-    "title": "Session 12",
+    "title": "Session 12 (The Tomb of the Constructor pt 2)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-12/",
+    "url": "/notes/session-12-the-tomb-of-the-constructor-pt-2/",
     "links": [
       "Tomb of Master Arlen",
       "Ziggurat",
@@ -712,15 +712,15 @@
       "Emporium of Marvelous Rarities",
       "Chest of Magic Nullification",
       "Strange Idol",
-      "Session 11",
-      "Session 13"
+      "Session 11 (The Tomb of the Constructor pt 1)",
+      "Session 13 (The Emporium of Marvelous Rarities pt 1)"
     ]
   },
   {
-    "title": "Session 13",
+    "title": "Session 13 (The Emporium of Marvelous Rarities pt 1)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-13/",
+    "url": "/notes/session-13-the-emporium-of-marvelous-rarities-pt-1/",
     "links": [
       "Lucky Leap Tavern",
       "Emporium of Marvelous Rarities",
@@ -728,15 +728,15 @@
       "Amaterasu",
       "Ricio Tane",
       "Lord Kiryn",
-      "Session 12",
-      "Session 14"
+      "Session 12 (The Tomb of the Constructor pt 2)",
+      "Session 14 (The Emporium of Marvelous Rarities pt 2)"
     ]
   },
   {
-    "title": "Session 14",
+    "title": "Session 14 (The Emporium of Marvelous Rarities pt 2)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-14/",
+    "url": "/notes/session-14-the-emporium-of-marvelous-rarities-pt-2/",
     "links": [
       "Emporium of Marvelous Rarities",
       "Master Key",
@@ -756,15 +756,15 @@
       "Dark Star",
       "Lady Rozena von Vyne",
       "Chest of Magic Nullification",
-      "Session 13",
-      "Session 15"
+      "Session 13 (The Emporium of Marvelous Rarities pt 1)",
+      "Session 15 (The Emporium of Marvelous Rarities pt 3)"
     ]
   },
   {
-    "title": "Session 15",
+    "title": "Session 15 (The Emporium of Marvelous Rarities pt 3)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-15/",
+    "url": "/notes/session-15-the-emporium-of-marvelous-rarities-pt-3/",
     "links": [
       "Evra",
       "Lucky Leap Tavern",
@@ -776,15 +776,15 @@
       "Nardar Tyke",
       "Alchemy Jug",
       "Evra",
-      "Session 14",
-      "Session 16"
+      "Session 14 (The Emporium of Marvelous Rarities pt 2)",
+      "Session 16 (The Monster Menagerie pt 1)"
     ]
   },
   {
-    "title": "Session 16",
+    "title": "Session 16 (The Monster Menagerie pt 1)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-16/",
+    "url": "/notes/session-16-the-monster-menagerie-pt-1/",
     "links": [
       "Were-Hellhound",
       "Baby from Onadbyr",
@@ -805,15 +805,15 @@
       "Old Gnarly",
       "Old Gnarly",
       "Two-headed and fire breathing frog",
-      "Session 15",
-      "Session 17"
+      "Session 15 (The Emporium of Marvelous Rarities pt 3)",
+      "Session 17 (The Monster Menagerie pt 2)"
     ]
   },
   {
-    "title": "Session 17",
+    "title": "Session 17 (The Monster Menagerie pt 2)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-17/",
+    "url": "/notes/session-17-the-monster-menagerie-pt-2/",
     "links": [
       "Old Gnarly",
       "Monster Menagerie",
@@ -834,15 +834,15 @@
       "Nardar Tyke",
       "Vegabonds",
       "Toront",
-      "Session 16",
-      "Session 18"
+      "Session 16 (The Monster Menagerie pt 1)",
+      "Session 18 (The Monster Menagerie pt 3)"
     ]
   },
   {
-    "title": "Session 18",
+    "title": "Session 18 (The Monster Menagerie pt 3)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-18/",
+    "url": "/notes/session-18-the-monster-menagerie-pt-3/",
     "links": [
       "Monster Menagerie",
       "King Blackhorn",
@@ -871,15 +871,15 @@
       "Josiah Joseph",
       "Onadbyr Temple of the Redeemer",
       "Onadbyr Temple of the Eternal Mother",
-      "Session 17",
-      "Session 19"
+      "Session 17 (The Monster Menagerie pt 2)",
+      "Session 19 (The Purge pt 1)"
     ]
   },
   {
-    "title": "Session 19",
+    "title": "Session 19 (The Purge pt 1)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-19/",
+    "url": "/notes/session-19-the-purge-pt-1/",
     "links": [
       "Onadbyr Temple of the Eternal Mother",
       "Lucky Leap Tavern",
@@ -909,15 +909,15 @@
       "Ricio Tane",
       "Jeagan",
       "Evra",
-      "Session 18",
-      "Session 20"
+      "Session 18 (The Monster Menagerie pt 3)",
+      "Session 20 (The Purge pt 2)"
     ]
   },
   {
-    "title": "Session 2",
+    "title": "Session 2 (The Old Grinder pt 1)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-2/",
+    "url": "/notes/session-2-the-old-grinder-pt-1/",
     "links": [
       "Brush",
       "Urgo",
@@ -933,15 +933,15 @@
       "Lord Kiryn",
       "Eldon Lobo",
       "The Matrons",
-      "Session 1",
-      "Session 3"
+      "Session 1 (Prologue)",
+      "Session 3 (The Old Grinder pt 2)"
     ]
   },
   {
-    "title": "Session 20",
+    "title": "Session 20 (The Purge pt 2)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-20/",
+    "url": "/notes/session-20-the-purge-pt-2/",
     "links": [
       "Jean's Apartment",
       "Ricio Tane|Ricio",
@@ -961,18 +961,41 @@
       "Golden Masks",
       "Hex Lightning",
       "The Inevitable",
+      "Onadbyr",
+      "Trix",
+      "Golden Masks",
+      "Monster Menagerie",
+      "Strange Organization's Tattoo",
+      "Cursed Rain",
+      "Aglarion",
+      "Golden Masks",
+      "Lucky Leap Tavern",
+      "The Curse",
+      "Princess Aphina|Aphina",
+      "Golden Masks",
+      "Princess Aphina|Aphina",
+      "Strange Organization's Tattoo|tattoo",
+      "Lady Finia",
+      "Lord Kiryn|Kiryn",
       "Trix",
       "Strange Organization's Tattoo",
-      "Golden Masks",
-      "Session 19",
+      "Evra",
+      "Hex Lightning",
+      "Amaterasu",
+      "Mia",
+      "Monder Family Crypt",
+      "Lord Monder's Journal",
+      "Lucky Leap Tavern",
+      "Ricio Tane|Ricio",
+      "Session 19 (The Purge pt 1)",
       "Session 21"
     ]
   },
   {
-    "title": "Session 3",
+    "title": "Session 3 (The Old Grinder pt 2)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-3/",
+    "url": "/notes/session-3-the-old-grinder-pt-2/",
     "links": [
       "Lord Kiryn",
       "Eldon Lobo|the monk",
@@ -988,15 +1011,15 @@
       "Jean",
       "Leon",
       "The Countess",
-      "Session 4",
-      "Session 2"
+      "Session 4 (The King's Games pt 1)",
+      "Session 2 (The Old Grinder pt 1)"
     ]
   },
   {
-    "title": "Session 4",
+    "title": "Session 4 (The King's Games pt 1)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-4/",
+    "url": "/notes/session-4-the-kings-games-pt-1/",
     "links": [
       "Nightmares",
       "Lord Cyne Monder",
@@ -1010,15 +1033,15 @@
       "Ricio Tane",
       "Unnamed Firbolg who knows about Urgo's Wife",
       "Urgo's Wife",
-      "Session 5",
-      "Session 3"
+      "Session 5 (The King's Games pt 2)",
+      "Session 3 (The Old Grinder pt 2)"
     ]
   },
   {
-    "title": "Session 5",
+    "title": "Session 5 (The King's Games pt 2)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-5/",
+    "url": "/notes/session-5-the-kings-games-pt-2/",
     "links": [
       "King's Games",
       "Merfolk Person from the Kings Games",
@@ -1029,15 +1052,15 @@
       "Napping Giant",
       "Princess Aphina|Noblewoman behind the treasure hunt",
       "Nine Arches",
-      "Session 6",
-      "Session 4"
+      "Session 6 (The King's Games pt 3)",
+      "Session 4 (The King's Games pt 1)"
     ]
   },
   {
-    "title": "Session 6",
+    "title": "Session 6 (The King's Games pt 3)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-6/",
+    "url": "/notes/session-6-the-kings-games-pt-3/",
     "links": [
       "Nine Arches",
       "Princess Aphina",
@@ -1049,15 +1072,15 @@
       "Onadbyr Temple of the Eternal Mother",
       "Mia",
       "Church of the Redeemer",
-      "Session 5",
-      "Session 7"
+      "Session 5 (The King's Games pt 2)",
+      "Session 7 (The King's Games pt 4)"
     ]
   },
   {
-    "title": "Session 7",
+    "title": "Session 7 (The King's Games pt 4)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-7/",
+    "url": "/notes/session-7-the-kings-games-pt-4/",
     "links": [
       "King's Games",
       "Lord Kiryn",
@@ -1077,15 +1100,15 @@
       "King Waldrann Azennar",
       "Princess Aphina",
       "Jeffle Pebblefoot",
-      "Session 6",
-      "Session 8"
+      "Session 6 (The King's Games pt 3)",
+      "Session 8 (Aphina's Betrayal pt 1)"
     ]
   },
   {
-    "title": "Session 8",
+    "title": "Session 8 (Aphina's Betrayal pt 1)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-8/",
+    "url": "/notes/session-8-aphinas-betrayal-pt-1/",
     "links": [
       "King's Games",
       "The Dog Pit",
@@ -1121,15 +1144,15 @@
       "Former Queen Alyssa Azennar",
       "Nyla's Pact Weapon",
       "Death of Prince Krasnar",
-      "Session 7",
-      "Session 9"
+      "Session 7 (The King's Games pt 4)",
+      "Session 9 (Aphina's Betrayal pt 2)"
     ]
   },
   {
-    "title": "Session 9",
+    "title": "Session 9 (Aphina's Betrayal pt 2)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-9/",
+    "url": "/notes/session-9-aphinas-betrayal-pt-2/",
     "links": [
       "Rifa",
       "King Waldrann's Funeral Procession",
@@ -1175,8 +1198,8 @@
       "Knights of the Crown",
       "Were-Hellhound",
       "Lord Cyne Monder",
-      "Session 8",
-      "Session 10"
+      "Session 8 (Aphina's Betrayal pt 1)",
+      "Session 10 (Aphina's Betrayal pt 3)"
     ]
   },
   {
@@ -1187,7 +1210,7 @@
     "links": [
       "Ricio Tane",
       "Jean",
-      "Session 10",
+      "Session 10 (Aphina's Betrayal pt 3)",
       "Strange Idol",
       "Emporium of Marvelous Rarities",
       "Crown of Aglarion"
@@ -1226,7 +1249,7 @@
     "url": "/objects/jeans-mystery-coin/",
     "links": [
       "Jean",
-      "Session 20",
+      "Session 20 (The Purge pt 2)",
       "Golden Masks"
     ]
   },
@@ -1290,7 +1313,7 @@
     "links": [
       "Ricio Tane",
       "Chest of Magic Nullification",
-      "Session 14",
+      "Session 14 (The Emporium of Marvelous Rarities pt 2)",
       "Emporium of Marvelous Rarities"
     ]
   },
@@ -1478,8 +1501,8 @@
       "Ricio Tane",
       "Master Bertio Ranberd",
       "Emporium of Marvelous Rarities",
-      "Session 14",
-      "Session 19",
+      "Session 14 (The Emporium of Marvelous Rarities pt 2)",
+      "Session 19 (The Purge pt 1)",
       "Best Character Ever"
     ]
   },
@@ -1490,7 +1513,8 @@
     "url": "/people/father-gibbson/",
     "links": [
       "Harveston",
-      "Brush"
+      "Brush",
+      "Gratus Ultio"
     ]
   },
   {
@@ -1499,7 +1523,9 @@
     "category": "People",
     "url": "/people/father-golvin/",
     "links": [
-      "Church of Knowledge"
+      "Church of Knowledge",
+      "Nyla",
+      "The Coronation of Aphina"
     ]
   },
   {
@@ -1508,7 +1534,9 @@
     "category": "People",
     "url": "/people/father-kalozark-solamyr/",
     "links": [
-      "Church of the Light and Dark"
+      "Church of the Light and Dark",
+      "Nyla",
+      "The Coronation of Aphina"
     ]
   },
   {
@@ -1532,7 +1560,8 @@
     "links": [
       "Former Queen Alyssa Azennar",
       "King Waldrann Azennar",
-      "Kidnapping of Queen Lyrencia"
+      "Kidnapping of Queen Lyrencia",
+      "King Waldrann Azennar"
     ]
   },
   {
@@ -1552,7 +1581,9 @@
     "url": "/people/gratus-ultio/",
     "links": [
       "The Shining Light and The Darkness Within",
-      "Knights of the Crown"
+      "Knights of the Crown",
+      "The Coronation of Aphina",
+      "Lucky Leap Tavern"
     ]
   },
   {
@@ -1579,7 +1610,14 @@
     "aliases": [],
     "category": "People",
     "url": "/people/jeagan/",
-    "links": []
+    "links": [
+      "Royal Stud Farm",
+      "Rumlyn Family",
+      "The Countess",
+      "The Old Grinder",
+      "Lucky Leap Tavern",
+      "Lord Cyne Monder|Monder"
+    ]
   },
   {
     "title": "Jeffle Pebblefoot",
@@ -1608,7 +1646,21 @@
     "aliases": [],
     "category": "People",
     "url": "/people/king-waldrann-azennar/",
-    "links": []
+    "links": [
+      "Aglarion",
+      "Former Queen Alyssa Azennar",
+      "Former Prince Krasnar",
+      "Queen Lyrencia",
+      "Princess Aphina",
+      "King Dasmag",
+      "Kidnapping of Queen Lyrencia|kidnapping",
+      "Blessing of Plenty",
+      "Crown of Aglarion",
+      "Death of Prince Krasnar|killed",
+      "Murder of King Waldrann|killed",
+      "Battle of Champions",
+      "Erinyes"
+    ]
   },
   {
     "title": "Lady Finia",
@@ -1620,7 +1672,8 @@
       "Lord Rumlyn",
       "Lord Kiryn",
       "Jean",
-      "Lord Cyne Monder"
+      "Lord Cyne Monder",
+      "Lucky Leap Tavern"
     ]
   },
   {
@@ -1638,7 +1691,16 @@
       "Couatl feather",
       "Miss Ivory",
       "Royal Stud Farm",
-      "Lord Rumlyn"
+      "Lord Rumlyn",
+      "Lady Finia",
+      "Lord Kiryn|Kiryn",
+      "Murder of King Waldrann",
+      "The Coronation of Aphina",
+      "Kidnapping of Queen Lyrencia|the rescue of Queen Lyrencia",
+      "Death of Prince Krasnar",
+      "Lucky Leap Tavern",
+      "Lord Monder's Key|key",
+      "Lord Monder's Journal|journal"
     ]
   },
   {
@@ -1650,6 +1712,7 @@
     "url": "/people/lord-kiryn/",
     "links": [
       "Lord Rumlyn",
+      "Lady Finia",
       "Rumlyn Family"
     ]
   },
@@ -1661,7 +1724,11 @@
     "links": [
       "Lord Kiryn",
       "Lord Cyne Monder",
-      "Rumlyn Family"
+      "Rumlyn Family",
+      "Cult-like Activities|ritual",
+      "The Old Grinder",
+      "Former Queen Alyssa Azennar",
+      "Erinyes"
     ]
   },
   {
@@ -1710,7 +1777,7 @@
       "Emporium of Marvelous Rarities",
       "Ricio Tane",
       "Evra",
-      "Session 14",
+      "Session 14 (The Emporium of Marvelous Rarities pt 2)",
       "Couatl",
       "Nyla",
       "Crystal of the Immortals",
@@ -1749,7 +1816,7 @@
       "Cursed Rain",
       "Queen Bonnyspike",
       "Princess Aphina",
-      "Session 16"
+      "Session 16 (The Monster Menagerie pt 1)"
     ]
   },
   {
@@ -1781,8 +1848,8 @@
     "category": "People",
     "url": "/people/princess-aphina/",
     "links": [
-      "Session 5",
-      "Session 6",
+      "Session 5 (The King's Games pt 2)",
+      "Session 6 (The King's Games pt 3)",
       "King's Games",
       "Lady Rozena von Vyne",
       "The Curse"

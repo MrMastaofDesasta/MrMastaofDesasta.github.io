@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 13"
+title: "Session 13 (The Emporium of Marvelous Rarities pt 1)"
 category: "Notes"
-source: "Notes/Session 13.md"
-permalink: "/notes/session-13/"
+source: "Notes/Session 13 (The Emporium of Marvelous Rarities pt 1).md"
+permalink: "/notes/session-13-the-emporium-of-marvelous-rarities-pt-1/"
 generated: true
 ---
 
@@ -15,5 +15,5 @@ Nyla noticed that the skeletal portion of <a class="wiki-link" href="/pets/amate
   
 The party was woken the next morning by <a class="wiki-link" href="/people/lord-kiryn/">Lord Kiryn</a>, who had taken it upon himself to pry their eyelids open one by one. What followed was a chaotic and largely inconsequential stretch of morning energy before the group managed to collect themselves.  
   
-Previous Session: <a class="wiki-link" href="/notes/session-12/">Session 12</a>  
-Next Session: <a class="wiki-link" href="/notes/session-14/">Session 14</a>
+Previous Session: <a class="wiki-link" href="/notes/session-12-the-tomb-of-the-constructor-pt-2/">Session 12 (The Tomb of the Constructor pt 2)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-14-the-emporium-of-marvelous-rarities-pt-2/">Session 14 (The Emporium of Marvelous Rarities pt 2)</a>

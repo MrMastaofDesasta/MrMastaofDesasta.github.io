@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 16"
+title: "Session 16 (The Monster Menagerie pt 1)"
 category: "Notes"
-source: "Notes/Session 16.md"
-permalink: "/notes/session-16/"
+source: "Notes/Session 16 (The Monster Menagerie pt 1).md"
+permalink: "/notes/session-16-the-monster-menagerie-pt-1/"
 generated: true
 ---
 
@@ -24,5 +24,5 @@ The zoo was locked down and vines grew around the edges of the gate. Nyla was ab
 Further inside, the party encountered <a class="wiki-link" href="/people/old-gnarly/">Old Gnarly</a>, a crocodile that grew abnormally large from the rain and gained the ability to speak. <a class="wiki-link" href="/people/old-gnarly/">Old Gnarly</a> apparently killed all the other crocodiles and many people, judging by the blood and bodies around. Behind him, an elderly caretaker was trapped in a cage. While negotiating, <a class="wiki-link" href="/people/old-gnarly/">Old Gnarly</a> revealed that he ate children too and enjoyed it, which made Nyla and Rozena flare with rage and prepare to attack him. They are however stopped by Jean who proposed a sneaky plan to free the caretaker. Nyla turned him invisible and together with Leon distracted Old Gnarly so Jean could rescue the man. During the fight, Nyla noticed someone watching them from a corner of the park. After finally defeating <a class="wiki-link" href="/people/old-gnarly/">Old Gnarly</a>, Nyla found a <span class="wiki-unresolved" title="No page exists for this reference">Two-headed and fire breathing frog</span> to transfer her hex to.  
   
   
-Last Session: <a class="wiki-link" href="/notes/session-15/">Session 15</a>  
-Next Sessions: <a class="wiki-link" href="/notes/session-17/">Session 17</a>
+Last Session: <a class="wiki-link" href="/notes/session-15-the-emporium-of-marvelous-rarities-pt-3/">Session 15 (The Emporium of Marvelous Rarities pt 3)</a>  
+Next Sessions: <a class="wiki-link" href="/notes/session-17-the-monster-menagerie-pt-2/">Session 17 (The Monster Menagerie pt 2)</a>

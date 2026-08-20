@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 17"
+title: "Session 17 (The Monster Menagerie pt 2)"
 category: "Notes"
-source: "Notes/Session 17.md"
-permalink: "/notes/session-17/"
+source: "Notes/Session 17 (The Monster Menagerie pt 2).md"
+permalink: "/notes/session-17-the-monster-menagerie-pt-2/"
 generated: true
 ---
 
@@ -21,5 +21,5 @@ After convincing <a class="wiki-link" href="/people/toront/">Toront</a> that the
   
 for next session: remember perception check to find a new target for hex. 40 minutes have passed.  
   
-Previous Session: <a class="wiki-link" href="/notes/session-16/">Session 16</a>  
-Next Session: <a class="wiki-link" href="/notes/session-18/">Session 18</a>
+Previous Session: <a class="wiki-link" href="/notes/session-16-the-monster-menagerie-pt-1/">Session 16 (The Monster Menagerie pt 1)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-18-the-monster-menagerie-pt-3/">Session 18 (The Monster Menagerie pt 3)</a>

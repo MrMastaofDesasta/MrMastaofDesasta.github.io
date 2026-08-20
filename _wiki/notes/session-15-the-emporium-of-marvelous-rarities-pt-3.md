@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 15"
+title: "Session 15 (The Emporium of Marvelous Rarities pt 3)"
 category: "Notes"
-source: "Notes/Session 15.md"
-permalink: "/notes/session-15/"
+source: "Notes/Session 15 (The Emporium of Marvelous Rarities pt 3).md"
+permalink: "/notes/session-15-the-emporium-of-marvelous-rarities-pt-3/"
 generated: true
 ---
 
@@ -19,5 +19,5 @@ Before sleeping, Leon consulted his books, and Nyla took the time to identify he
 Breakfast was warm and unhurried. Jean, noticing Brush was avoiding the healthier options, told him that new colors were hidden at the bottom of the bowls — successfully getting him to eat. When Brush made a move toward Nyla's food, she hissed at him and reached for a spell.  
 The party said their goodbyes before heading out, including to Ricio, who had spent the night with <a class="wiki-link" href="/people/evra/">Evra</a>. They had not gotten far through the streets when a terrified woman broke from the crowd, thrust a baby into Jean's arms, and ran.  
   
-Previous Session: <a class="wiki-link" href="/notes/session-14/">Session 14</a>  
-Next Session: <a class="wiki-link" href="/notes/session-16/">Session 16</a>
+Previous Session: <a class="wiki-link" href="/notes/session-14-the-emporium-of-marvelous-rarities-pt-2/">Session 14 (The Emporium of Marvelous Rarities pt 2)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-16-the-monster-menagerie-pt-1/">Session 16 (The Monster Menagerie pt 1)</a>

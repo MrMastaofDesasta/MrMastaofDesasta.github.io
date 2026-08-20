@@ -9,5 +9,7 @@ generated: true
 
 Young kid.  
 Son of <a class="wiki-link" href="/people/lord-rumlyn/">Lord Rumlyn</a>  
-Mother died in the fight in the Old Grinder  
-<a class="wiki-link" href="/organizations/rumlyn-family/">Rumlyn Family</a>
+Mother, <a class="wiki-link" href="/people/lady-finia/">Lady Finia</a> died in the fight in the Old Grinder but was resurrected.  
+<a class="wiki-link" href="/organizations/rumlyn-family/">Rumlyn Family</a>  
+  
+Current Status: Alive

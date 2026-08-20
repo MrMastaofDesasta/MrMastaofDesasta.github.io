@@ -8,4 +8,4 @@ generated: true
 ---
 
 Belongs to <a class="wiki-link" href="/party/jean/">Jean</a>. A trinket that seems to identify him as part of a certain organization.  
-Highly implied but not confirmed as of <a class="wiki-link" href="/notes/session-20/">Session 20</a> to be the <a class="wiki-link" href="/organizations/golden-masks/">Golden Masks</a>
+Highly implied but not confirmed as of <a class="wiki-link" href="/notes/session-20-the-purge-pt-2/">Session 20 (The Purge pt 2)</a> to be the <a class="wiki-link" href="/organizations/golden-masks/">Golden Masks</a>

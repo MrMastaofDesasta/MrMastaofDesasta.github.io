@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 3"
+title: "Session 3 (The Old Grinder pt 2)"
 category: "Notes"
-source: "Notes/Session 3.md"
-permalink: "/notes/session-3/"
+source: "Notes/Session 3 (The Old Grinder pt 2).md"
+permalink: "/notes/session-3-the-old-grinder-pt-2/"
 generated: true
 ---
 
@@ -17,5 +17,5 @@ Leon and Jean initially claimed all the Rumlyns had died. But, seeing Monder's r
   
 But said that they could meet in the morning to check on the mom and kid.  
   
-Next Session: <a class="wiki-link" href="/notes/session-4/">Session 4</a>  
-Last Session: <a class="wiki-link" href="/notes/session-2/">Session 2</a>
+Next Session: <a class="wiki-link" href="/notes/session-4-the-kings-games-pt-1/">Session 4 (The King&#x27;s Games pt 1)</a>  
+Last Session: <a class="wiki-link" href="/notes/session-2-the-old-grinder-pt-1/">Session 2 (The Old Grinder pt 1)</a>

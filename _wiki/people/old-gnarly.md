@@ -13,4 +13,4 @@ A large crocodile and one of the attractions of the <a class="wiki-link" href="/
   
 <a class="wiki-link" href="/people/princess-aphina/">Princess Aphina</a> used it to get rid of rebels.  
   
-The party killed it in <a class="wiki-link" href="/notes/session-16/">Session 16</a>
+The party killed it in <a class="wiki-link" href="/notes/session-16-the-monster-menagerie-pt-1/">Session 16 (The Monster Menagerie pt 1)</a>

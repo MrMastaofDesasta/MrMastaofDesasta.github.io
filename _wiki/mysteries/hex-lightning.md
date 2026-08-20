@@ -1,9 +1,9 @@
 ---
 layout: wiki
 title: "Hex Lightning"
-category: "Other"
-source: "Hex Lightning.md"
-permalink: "/other/hex-lightning/"
+category: "Mysteries"
+source: "Mysteries/Hex Lightning.md"
+permalink: "/mysteries/hex-lightning/"
 generated: true
 ---
 

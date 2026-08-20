@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 14"
+title: "Session 14 (The Emporium of Marvelous Rarities pt 2)"
 category: "Notes"
-source: "Notes/Session 14.md"
-permalink: "/notes/session-14/"
+source: "Notes/Session 14 (The Emporium of Marvelous Rarities pt 2).md"
+permalink: "/notes/session-14-the-emporium-of-marvelous-rarities-pt-2/"
 generated: true
 ---
 
@@ -42,5 +42,5 @@ Nyla, intrigued by the promise of power, stepped forward. <a class="wiki-link" h
   
 Meanwhile Jean had quietly emptied the <a class="wiki-link" href="/objects/chest-of-magic-nullification/">Chest of Magic Nullification</a>.  
   
-Previous Session: <a class="wiki-link" href="/notes/session-13/">Session 13</a>  
-Next Session: <a class="wiki-link" href="/notes/session-15/">Session 15</a>
+Previous Session: <a class="wiki-link" href="/notes/session-13-the-emporium-of-marvelous-rarities-pt-1/">Session 13 (The Emporium of Marvelous Rarities pt 1)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-15-the-emporium-of-marvelous-rarities-pt-3/">Session 15 (The Emporium of Marvelous Rarities pt 3)</a>

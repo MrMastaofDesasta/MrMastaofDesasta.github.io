@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 2"
+title: "Session 2 (The Old Grinder pt 1)"
 category: "Notes"
-source: "Notes/Session 2.md"
-permalink: "/notes/session-2/"
+source: "Notes/Session 2 (The Old Grinder pt 1).md"
+permalink: "/notes/session-2-the-old-grinder-pt-1/"
 generated: true
 ---
 
@@ -19,5 +19,5 @@ They also saw <a class="wiki-link" href="/people/lord-kiryn/">Lord Kiryn</a> (th
   
 During the combat the mother was killed. But the party managed to knock the devil out and clear the rest of the basement.  
   
-Last Session: <a class="wiki-link" href="/notes/session-1/">Session 1</a>  
-Next Session: <a class="wiki-link" href="/notes/session-3/">Session 3</a>
+Last Session: <a class="wiki-link" href="/notes/session-1-prologue/">Session 1 (Prologue)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-3-the-old-grinder-pt-2/">Session 3 (The Old Grinder pt 2)</a>

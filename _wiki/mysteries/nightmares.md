@@ -9,7 +9,7 @@ generated: true
 
 Dreams:  
   
-The night of <a class="wiki-link" href="/notes/session-2/">Session 2</a> brush and Urgo had nightmares.  
+The night of <a class="wiki-link" href="/notes/session-2-the-old-grinder-pt-1/">Session 2 (The Old Grinder pt 1)</a> brush and Urgo had nightmares.  
   
 **Brush**: Brush dreamt he woke up in the same tent on the hill but as if he were in a painting. Everything was dripping with globs of paint. There were colours he hadn't ever seen before. There were <span class="wiki-unresolved" title="No page exists for this reference">3 Suns</span> in the sky. It started storming. As the thunder gets louder and the rain heavier the paint started to drip down starting with the 3 suns. He found himself unable to use his legs and sitting in what seemed to be a sort of open carriage. He started drowing as the paint gathered and the rain diluted it. Then everything was back to normal. He was standing on the hill with a canvas in front of him. Large black ink scribbles covering what looked to be a painting. It took him a while to wake up and when he did, he had scratched at his arm in the night.  (Brush also, noticeable, often paints things in a <span class="wiki-unresolved" title="No page exists for this reference">Set of Three</span>. Not everything. But, for example, when he drew a picture of lord monder thinking he was the king, he drew 3 portraits together)  
   
@@ -17,7 +17,7 @@ The night of <a class="wiki-link" href="/notes/session-2/">Session 2</a> brush a
 Urgo also takes a while to wake up. When he does he is holding a gold coin in his hand (with no face on either side) <a class="wiki-link" href="/objects/nightmare-coin/">Nightmare Coin</a>. Just a solid gold coin. When placed in water it flashes <a class="wiki-link" href="/mysteries/silvery-vein-like-embossments/">Silvery Vein-like Embossments</a>.  
   
   
-The night before the games begin <a class="wiki-link" href="/notes/session-4/">Session 4</a> Leon and Jean have dreams.  
+The night before the games begin <a class="wiki-link" href="/notes/session-4-the-kings-games-pt-1/">Session 4 (The King&#x27;s Games pt 1)</a> Leon and Jean have dreams.  
   
 **Jean**: Jean is standing at the bottom of a hill. Bright thick flowers and vines everywhere and a hand reaches out and holds his. He hears a sound of a child laughing and the hand gently releases. He hears them walking behind him but his gaze is fixed on a house he sees in the distance - his house. It is beautifully designed with washed woods and hand carved pillars. sever pairs of shoes lined up on the porch. a very small pair of rain boots at the end. It starts raining and in the distance thunder starts. They run towards the house. but as the rain touches it, it begins to degrade and rot. The windows fall off. The stairs mold. As he runs inside he tries to pull the people behind him in with him. But his own voice says they cant go in their with him. The door slams and the sound of thunder gets louder. He is in a brothel. All races and genders wandering around nude and hanging from chains. He sees a lyre on a red carpet in the middle and starts to play it. He loses control and as he is playing the flesh starts to rip off of the people in the brothel. the carpet getting soaked with blood. And just before the screams and his playing reach a crechendo he wakes up.  
   

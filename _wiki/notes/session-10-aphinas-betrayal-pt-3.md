@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 10"
+title: "Session 10 (Aphina's Betrayal pt 3)"
 category: "Notes"
-source: "Notes/Session 10.md"
-permalink: "/notes/session-10/"
+source: "Notes/Session 10 (Aphina's Betrayal pt 3).md"
+permalink: "/notes/session-10-aphinas-betrayal-pt-3/"
 generated: true
 ---
 
@@ -14,7 +14,7 @@ In the violence that followed, the party acted alongside <a class="wiki-link" hr
 Monder led the group outside and through a door that opened into the city's underbelly. Brush noticed something unsettling along the way — every bush and hedge bore flowers with <a class="wiki-link" href="/mysteries/silvery-vein-like-embossments/">Silvery Vein-like Embossments</a>, their colors alien and deeply wrong. Before there was time to linger on it, hellhound guards came rushing in pursuit, and Jean arrived just in time to help the group push forward.  
 Once inside the sewers, the atmosphere pressed down heavily. Nyla suffered a panic attack in the dark and the group paused to rest before Monder urged them onward toward somewhere safer. <a class="wiki-link" href="/pets/amaterasu/">Amaterasu</a> rejoined the party as they moved deeper through the familiar smell of the tunnels. Jean contracted the sewer plague, though Brush was able to heal him before it took hold.  
 The sewers had other surprises. Jean noticed a strange rat watching them, and moments later the group was rushed by an unusually intelligent pack that made off with one of Nyla's money pouches and Brush's sketchbook. Nyla and Brush recovered both by killing one of the rats. In what might be called an act of diplomacy, Brush gave the remaining rat a gold coin.  
-Jean contracted the sewer plague a second time just as the group neared an exit. Rain dripped down through a grate above them, and where it touched the ground, veins began to creep and grow beneath the surface. An unseen monster lurked nearby, but a cleric threw a coat over Brush to dim his light, and the group slipped past it. They emerged outside the <a class="wiki-link" href="/locations/lucky-leap-tavern/">Lucky Leap Tavern</a>, where Monder hurried everyone inside. As Nyla crossed the threshold, a bolt of what felt like <a class="wiki-link" href="/other/hex-lightning/">Hex Lightning</a> struck her through the rain and she collapsed.  
+Jean contracted the sewer plague a second time just as the group neared an exit. Rain dripped down through a grate above them, and where it touched the ground, veins began to creep and grow beneath the surface. An unseen monster lurked nearby, but a cleric threw a coat over Brush to dim his light, and the group slipped past it. They emerged outside the <a class="wiki-link" href="/locations/lucky-leap-tavern/">Lucky Leap Tavern</a>, where Monder hurried everyone inside. As Nyla crossed the threshold, a bolt of what felt like <a class="wiki-link" href="/mysteries/hex-lightning/">Hex Lightning</a> struck her through the rain and she collapsed.  
 <a class="wiki-link" href="/people/ricio-tane/">Ricio Tane</a> let the group in without hesitation, activated some mechanism that sealed the building, and brought everyone down into the basement, where Jean healed Nyla. Ricio then revealed a secret room, but only after the party swore to keep it between them.  
   
 ### The Strategy Room  
@@ -56,5 +56,5 @@ There was also the matter of the <a class="wiki-link" href="/objects/chest-of-ma
 There was one more name: <a class="wiki-link" href="/people/nardar-tyke/">Nardar Tyke</a>, the only person who knew the entrances and exits of the tunnel leading into the royal quarters. He lived near <a class="wiki-link" href="/locations/the-dawn-of-the-ages/">The Dawn of The Ages</a>, an antique shop, and was at risk — the queen's forces might already be moving toward him.  
 Before they adjourned, Monder brought the party into an adjoining room, also mapped and written over, but lined as well with weapons and magic items. He handed over the <a class="wiki-link" href="/objects/chest-of-magic-nullification/">Chest of Magic Nullification</a> and pointed them toward the location of the tomb.  
   
-Previous Session: <a class="wiki-link" href="/notes/session-9/">Session 9</a>  
-Next Session: <a class="wiki-link" href="/notes/session-11/">Session 11</a>
+Previous Session: <a class="wiki-link" href="/notes/session-9-aphinas-betrayal-pt-2/">Session 9 (Aphina&#x27;s Betrayal pt 2)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-11-the-tomb-of-the-constructor-pt-1/">Session 11 (The Tomb of the Constructor pt 1)</a>
