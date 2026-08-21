@@ -7,6 +7,12 @@ permalink: "/people/old-gnarly/"
 generated: true
 ---
 
+| --- | --- |
+| Species | Crocodile (mutated) |
+| Relationship | Enemy |
+| Affiliations | Monster Menagerie |
+| Status | Deceased |
+
 A large crocodile and one of the attractions of the <a class="wiki-link" href="/locations/monster-menagerie/">Monster Menagerie</a>.  
   
 <a class="wiki-link" href="/lore/the-curse/">The Curse</a>'s <a class="wiki-link" href="/mysteries/cursed-rain/">Cursed Rain</a> gave it intelligence and enhanced powers, letting it slaughter most creatures around it, including <span class="wiki-unresolved" title="No page exists for this reference">Queen Bonnyspike</span>.  

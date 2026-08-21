@@ -31,5 +31,5 @@ While the rest were exploring the room, Jean copied the contents of the clay tab
   
 The skeleton seemsled to be Master Arlen by the looks of it. Jean found a <a class="wiki-link" href="/objects/couatl-feather/">Couatl feather</a> with it (A <span class="wiki-unresolved" title="No page exists for this reference">Feather of Detection</span>) and retreated before angering the ghost.  
   
-Previous: <a class="wiki-link" href="/notes/session-10-aphinas-betrayal-pt-3/">Session 10 (Aphina&#x27;s Betrayal pt 3)</a>  
+Previous: <a class="wiki-link" href="/notes/session-10-rise-of-aphina-pt-3/">Session 10 (Rise of Aphina pt 3)</a>  
 Next: <a class="wiki-link" href="/notes/session-12-the-tomb-of-the-constructor-pt-2/">Session 12 (The Tomb of the Constructor pt 2)</a>

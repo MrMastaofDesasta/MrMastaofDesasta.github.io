@@ -1,8 +1,8 @@
 ---
 layout: wiki
-title: "Session 5 (The King's Games pt 2)"
+title: "Session 5 (The Kings Games pt 2)"
 category: "Notes"
-source: "Notes/Session 5 (The King's Games pt 2).md"
+source: "Notes/Session 5 (The Kings Games pt 2).md"
 permalink: "/notes/session-5-the-kings-games-pt-2/"
 generated: true
 ---
@@ -38,5 +38,5 @@ Nyla's patron told her that it most likely referred to the <a class="wiki-link" 
   
 Nyla's patron guessed that this refers to a tree in the <a class="wiki-link" href="/locations/nine-arches/">Nine Arches</a>. Meanwhile, Jean had gone of on their own little adventure, which the rest was not privy to, but it also led them back to the party at this point. Together, they destroyed the bugs, but the reunion alerted the guards. Jean and Nyla managed to sneak away, but when they turned around they found Leon, Urgo, and Brush still standing around the statue, with guards closing in on their location.  
   
-Next Session: <a class="wiki-link" href="/notes/session-6-the-kings-games-pt-3/">Session 6 (The King&#x27;s Games pt 3)</a>  
-Last Session: <a class="wiki-link" href="/notes/session-4-the-kings-games-pt-1/">Session 4 (The King&#x27;s Games pt 1)</a>
+Next Session: <a class="wiki-link" href="/notes/session-6-the-kings-games-pt-3/">Session 6 (The Kings Games pt 3)</a>  
+Last Session: <a class="wiki-link" href="/notes/session-4-the-kings-games-pt-1/">Session 4 (The Kings Games pt 1)</a>

@@ -1,8 +1,8 @@
 ---
 layout: wiki
-title: "Session 4 (The King's Games pt 1)"
+title: "Session 4 (The Kings Games pt 1)"
 category: "Notes"
-source: "Notes/Session 4 (The King's Games pt 1).md"
+source: "Notes/Session 4 (The Kings Games pt 1).md"
 permalink: "/notes/session-4-the-kings-games-pt-1/"
 generated: true
 ---
@@ -15,5 +15,5 @@ She said that they were blindfolded, gagged and had a hood placed over them so t
   
 After agreeing to maybe meet up during the festival (<a class="wiki-link" href="/events/kings-games/">King&#x27;s Games</a>), they headed to the procession (which <a class="wiki-link" href="/pets/miss-ivory/">Miss Ivory</a> the horse they saved was ridden by Lord Monder). At the end of the procession, they did see the <a class="wiki-link" href="/people/king-waldrann-azennar/">King Waldrann Azennar</a> step out of the carriage. Very loudly exclaiming "what of a celebration if I do not get to celebrate alongside my people" and picking up a flower and placing it behind a tiefling kids ear. It very much seemed like a display of showboating for the people, but the city responded very well to it and the feeling of the King 'joining' the crowd. The first game was the Battle of the Tipsy Tunes and the second was The Nimble Eagle. Both Jean and Brush did extremely well on both games and it was neck and neck for both. Ultimately Jean let Brush win Nimble Eagle and Jean won the Battle. Lord Monder and <a class="wiki-link" href="/people/ricio-tane/">Ricio Tane</a> did show up to watch the first game. And Urgo bumped into a firbolg they knew from the Ulden swamps (<span class="wiki-unresolved" title="No page exists for this reference">Unnamed Firbolg who knows about Urgo&#x27;s Wife</span>) who asked about <span class="wiki-unresolved" title="No page exists for this reference">Urgo&#x27;s Wife</span> who is missing. So they agreed to keep an eye out if they hear any information.  
   
-Next Session: <a class="wiki-link" href="/notes/session-5-the-kings-games-pt-2/">Session 5 (The King&#x27;s Games pt 2)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-5-the-kings-games-pt-2/">Session 5 (The Kings Games pt 2)</a>  
 Last Session: <a class="wiki-link" href="/notes/session-3-the-old-grinder-pt-2/">Session 3 (The Old Grinder pt 2)</a>

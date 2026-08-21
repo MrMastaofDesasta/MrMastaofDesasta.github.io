@@ -7,6 +7,13 @@ permalink: "/people/lord-cyne-monder/"
 generated: true
 ---
 
+| --- | --- |
+| Aliases | Monder<br>Cyne Monder |
+| Species | Human |
+| Relationship | Allies |
+| Affiliations | Royal Family of Aglarion<br>Knights of the Crown |
+| Status | Deceased |
+
 One of the leaders of the <a class="wiki-link" href="/organizations/knights-of-the-crown/">Knights of the Crown</a>  
 Friends with <a class="wiki-link" href="/people/ricio-tane/">Ricio Tane</a>?  
   

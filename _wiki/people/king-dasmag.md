@@ -7,4 +7,11 @@ permalink: "/people/king-dasmag/"
 generated: true
 ---
 
+| --- | --- |
+| Aliases | Dasmag |
+| Species | Fey |
+| Relationship | Not Met |
+| Affiliations | Feywild |
+| Status | Alive |
+
 A at the very least prominent figure in the <a class="wiki-link" href="/lore/feywild/">Feywild</a>, who is called the Satyr King. Involved in the <a class="wiki-link" href="/events/kidnapping-of-queen-lyrencia/">Kidnapping of Queen Lyrencia</a>. When <a class="wiki-link" href="/people/king-waldrann-azennar/">King Waldrann Azennar</a> came to rescue her, the two sparred and came to an understanding. He bestowed a <a class="wiki-link" href="/lore/blessing-of-plenty/">Blessing of Plenty</a> on the <a class="wiki-link" href="/objects/crown-of-aglarion/">Crown of Aglarion</a>

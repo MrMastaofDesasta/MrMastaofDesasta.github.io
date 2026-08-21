@@ -39,7 +39,6 @@ generated: true
 <a class="wiki-list-item" href="/people/nardar-tyke/"><span class="wiki-list-title">Nardar Tyke</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/old-gnarly/"><span class="wiki-list-title">Old Gnarly</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/pearla/"><span class="wiki-list-title">Pearla</span><span class="wiki-list-arrow">→</span></a>
-<a class="wiki-list-item" href="/people/prince-krasnar/"><span class="wiki-list-title">Prince Krasnar</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/princess-aphina/"><span class="wiki-list-title">Princess Aphina</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/queen-lyrencia/"><span class="wiki-list-title">Queen Lyrencia</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/raffolk/"><span class="wiki-list-title">Raffolk</span><span class="wiki-list-arrow">→</span></a>
@@ -48,6 +47,6 @@ generated: true
 <a class="wiki-list-item" href="/people/taris/"><span class="wiki-list-title">Taris</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/the-countess/"><span class="wiki-list-title">The Countess</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/toront/"><span class="wiki-list-title">Toront</span><span class="wiki-list-arrow">→</span></a>
-<a class="wiki-list-item" href="/people/trix/"><span class="wiki-list-title">Trix</span><span class="wiki-list-arrow">→</span></a>
+<a class="wiki-list-item" href="/people/tyx/"><span class="wiki-list-title">Tyx</span><span class="wiki-list-arrow">→</span></a>
 
 </div>

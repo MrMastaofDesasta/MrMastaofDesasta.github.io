@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 10 (Aphina's Betrayal pt 3)"
+title: "Session 10 (Rise of Aphina pt 3)"
 category: "Notes"
-source: "Notes/Session 10 (Aphina's Betrayal pt 3).md"
-permalink: "/notes/session-10-aphinas-betrayal-pt-3/"
+source: "Notes/Session 10 (Rise of Aphina pt 3).md"
+permalink: "/notes/session-10-rise-of-aphina-pt-3/"
 generated: true
 ---
 
@@ -23,7 +23,7 @@ The second room was lined wall to wall with maps and writing. Monder sat down wi
 As Monder laid it out, <span class="wiki-unresolved" title="No page exists for this reference">Lady Rozena von Vyne</span> listened carefully, and quietly turned one of her rings.  
   
 ##### Memories of the Death of Prince Krasnar  
-<a class="wiki-link" href="/people/king-dasmag/">King Dasmag</a>, the Satyr King, had taken <a class="wiki-link" href="/people/queen-lyrencia/">Queen Lyrencia</a> into the fey realm. King Waldrann assembled a rescue party: <a class="wiki-link" href="/people/lord-cyne-monder/">Lord Cyne Monder</a>, <a class="wiki-link" href="/people/prince-krasnar/">Prince Krasnar</a>, <a class="wiki-link" href="/people/master-aiden/">Master Aiden</a> the former archmage of the <a class="wiki-link" href="/organizations/arcane-tower/">Arcane Tower</a>, <a class="wiki-link" href="/people/father-lester/">Father Lester</a> a high-ranking priest of Knowledge, and <a class="wiki-link" href="/people/king-waldrann-azennar/">King Waldrann Azennar</a> himself. Monder remembered little of his time in the <a class="wiki-link" href="/lore/feywild/">Feywild</a>, only scattered impressions. What he did recall was that Waldrann challenged Dasmag directly, and that Dasmag, intrigued by his prowess, returned the queen. As part of the exchange, Dasmag bestowed upon the <a class="wiki-link" href="/objects/crown-of-aglarion/">Crown of Aglarion</a> a <a class="wiki-link" href="/lore/blessing-of-plenty/">Blessing of Plenty</a>. On the journey home, Krasnar and Father Lester were supposedly swallowed by quicksand. Monder made it quietly but clearly apparent that he did not believe this to be the truth, though he said he could not elaborate further.  
+<a class="wiki-link" href="/people/king-dasmag/">King Dasmag</a>, the Satyr King, had taken <a class="wiki-link" href="/people/queen-lyrencia/">Queen Lyrencia</a> into the fey realm. King Waldrann assembled a rescue party: <a class="wiki-link" href="/people/lord-cyne-monder/">Lord Cyne Monder</a>, <a class="wiki-link" href="/people/former-prince-krasnar/">Prince Krasnar</a>, <a class="wiki-link" href="/people/master-aiden/">Master Aiden</a> the former archmage of the <a class="wiki-link" href="/organizations/arcane-tower/">Arcane Tower</a>, <a class="wiki-link" href="/people/father-lester/">Father Lester</a> a high-ranking priest of Knowledge, and <a class="wiki-link" href="/people/king-waldrann-azennar/">King Waldrann Azennar</a> himself. Monder remembered little of his time in the <a class="wiki-link" href="/lore/feywild/">Feywild</a>, only scattered impressions. What he did recall was that Waldrann challenged Dasmag directly, and that Dasmag, intrigued by his prowess, returned the queen. As part of the exchange, Dasmag bestowed upon the <a class="wiki-link" href="/objects/crown-of-aglarion/">Crown of Aglarion</a> a <a class="wiki-link" href="/lore/blessing-of-plenty/">Blessing of Plenty</a>. On the journey home, Krasnar and Father Lester were supposedly swallowed by quicksand. Monder made it quietly but clearly apparent that he did not believe this to be the truth, though he said he could not elaborate further.  
   
 Rozena suggested finding a way to extract the rest of what Monder knew without asking him to speak it aloud. Jean offered to read his mind.  
 What Jean found there was guilt, and a thought that surfaced clearly: _I know what he did was wrong, but he was our king._ He saw a memory of Waldrann striking some kind of deal with Dasmag — the terms unknown even to Monder. In another scene, <span class="wiki-unresolved" title="No page exists for this reference">Strange Rains</span> fell, and Krasnar stood furious before his father:  
@@ -56,5 +56,5 @@ There was also the matter of the <a class="wiki-link" href="/objects/chest-of-ma
 There was one more name: <a class="wiki-link" href="/people/nardar-tyke/">Nardar Tyke</a>, the only person who knew the entrances and exits of the tunnel leading into the royal quarters. He lived near <a class="wiki-link" href="/locations/the-dawn-of-the-ages/">The Dawn of The Ages</a>, an antique shop, and was at risk — the queen's forces might already be moving toward him.  
 Before they adjourned, Monder brought the party into an adjoining room, also mapped and written over, but lined as well with weapons and magic items. He handed over the <a class="wiki-link" href="/objects/chest-of-magic-nullification/">Chest of Magic Nullification</a> and pointed them toward the location of the tomb.  
   
-Previous Session: <a class="wiki-link" href="/notes/session-9-aphinas-betrayal-pt-2/">Session 9 (Aphina&#x27;s Betrayal pt 2)</a>  
+Previous Session: <a class="wiki-link" href="/notes/session-9-rise-of-aphina-pt-2/">Session 9 (Rise of Aphina pt 2)</a>  
 Next Session: <a class="wiki-link" href="/notes/session-11-the-tomb-of-the-constructor-pt-1/">Session 11 (The Tomb of the Constructor pt 1)</a>

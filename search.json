@@ -107,8 +107,8 @@
       "Princess Aphina",
       "King Waldrann's Funeral Procession",
       "The Curse",
-      "Session 9 (Aphina's Betrayal pt 2)",
-      "Session 10 (Aphina's Betrayal pt 3)"
+      "Session 9 (Rise of Aphina pt 2)",
+      "Session 10 (Rise of Aphina pt 3)"
     ]
   },
   {
@@ -399,7 +399,7 @@
       "Crown of Aglarion",
       "King Dasmag",
       "Aglarion",
-      "Session 10 (Aphina's Betrayal pt 3)",
+      "Session 10 (Rise of Aphina pt 3)",
       "Princess Aphina",
       "The Curse"
     ]
@@ -553,7 +553,7 @@
       "Gold Fish",
       "Nightmare Coin",
       "Silvery Vein-like Embossments",
-      "Session 4 (The King's Games pt 1)",
+      "Session 4 (The Kings Games pt 1)",
       "Tiny Pyramid",
       "The Matrons"
     ]
@@ -613,10 +613,10 @@
     ]
   },
   {
-    "title": "Session 10 (Aphina's Betrayal pt 3)",
+    "title": "Session 10 (Rise of Aphina pt 3)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-10-aphinas-betrayal-pt-3/",
+    "url": "/notes/session-10-rise-of-aphina-pt-3/",
     "links": [
       "Throne Room",
       "The Coronation of Aphina",
@@ -668,7 +668,7 @@
       "Nardar Tyke",
       "The Dawn of The Ages",
       "Chest of Magic Nullification",
-      "Session 9 (Aphina's Betrayal pt 2)",
+      "Session 9 (Rise of Aphina pt 2)",
       "Session 11 (The Tomb of the Constructor pt 1)"
     ]
   },
@@ -694,7 +694,7 @@
       "Master Arlen",
       "Couatl feather",
       "Feather of Detection",
-      "Session 10 (Aphina's Betrayal pt 3)",
+      "Session 10 (Rise of Aphina pt 3)",
       "Session 12 (The Tomb of the Constructor pt 2)"
     ]
   },
@@ -962,7 +962,7 @@
       "Hex Lightning",
       "The Inevitable",
       "Onadbyr",
-      "Trix",
+      "Tyx",
       "Golden Masks",
       "Monster Menagerie",
       "Strange Organization's Tattoo",
@@ -977,7 +977,8 @@
       "Strange Organization's Tattoo|tattoo",
       "Lady Finia",
       "Lord Kiryn|Kiryn",
-      "Trix",
+      "Lighthouse",
+      "Tyx",
       "Strange Organization's Tattoo",
       "Evra",
       "Hex Lightning",
@@ -1011,12 +1012,12 @@
       "Jean",
       "Leon",
       "The Countess",
-      "Session 4 (The King's Games pt 1)",
+      "Session 4 (The Kings Games pt 1)",
       "Session 2 (The Old Grinder pt 1)"
     ]
   },
   {
-    "title": "Session 4 (The King's Games pt 1)",
+    "title": "Session 4 (The Kings Games pt 1)",
     "aliases": [],
     "category": "Notes",
     "url": "/notes/session-4-the-kings-games-pt-1/",
@@ -1033,12 +1034,12 @@
       "Ricio Tane",
       "Unnamed Firbolg who knows about Urgo's Wife",
       "Urgo's Wife",
-      "Session 5 (The King's Games pt 2)",
+      "Session 5 (The Kings Games pt 2)",
       "Session 3 (The Old Grinder pt 2)"
     ]
   },
   {
-    "title": "Session 5 (The King's Games pt 2)",
+    "title": "Session 5 (The Kings Games pt 2)",
     "aliases": [],
     "category": "Notes",
     "url": "/notes/session-5-the-kings-games-pt-2/",
@@ -1052,12 +1053,12 @@
       "Napping Giant",
       "Princess Aphina|Noblewoman behind the treasure hunt",
       "Nine Arches",
-      "Session 6 (The King's Games pt 3)",
-      "Session 4 (The King's Games pt 1)"
+      "Session 6 (The Kings Games pt 3)",
+      "Session 4 (The Kings Games pt 1)"
     ]
   },
   {
-    "title": "Session 6 (The King's Games pt 3)",
+    "title": "Session 6 (The Kings Games pt 3)",
     "aliases": [],
     "category": "Notes",
     "url": "/notes/session-6-the-kings-games-pt-3/",
@@ -1072,12 +1073,12 @@
       "Onadbyr Temple of the Eternal Mother",
       "Mia",
       "Church of the Redeemer",
-      "Session 5 (The King's Games pt 2)",
-      "Session 7 (The King's Games pt 4)"
+      "Session 5 (The Kings Games pt 2)",
+      "Session 7 (The Kings Games pt 4)"
     ]
   },
   {
-    "title": "Session 7 (The King's Games pt 4)",
+    "title": "Session 7 (The Kings Games pt 4)",
     "aliases": [],
     "category": "Notes",
     "url": "/notes/session-7-the-kings-games-pt-4/",
@@ -1100,15 +1101,15 @@
       "King Waldrann Azennar",
       "Princess Aphina",
       "Jeffle Pebblefoot",
-      "Session 6 (The King's Games pt 3)",
-      "Session 8 (Aphina's Betrayal pt 1)"
+      "Session 6 (The Kings Games pt 3)",
+      "Session 8 (Rise of Aphina pt 1)"
     ]
   },
   {
-    "title": "Session 8 (Aphina's Betrayal pt 1)",
+    "title": "Session 8 (Rise of Aphina pt 1)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-8-aphinas-betrayal-pt-1/",
+    "url": "/notes/session-8-rise-of-aphina-pt-1/",
     "links": [
       "King's Games",
       "The Dog Pit",
@@ -1144,15 +1145,15 @@
       "Former Queen Alyssa Azennar",
       "Nyla's Pact Weapon",
       "Death of Prince Krasnar",
-      "Session 7 (The King's Games pt 4)",
-      "Session 9 (Aphina's Betrayal pt 2)"
+      "Session 7 (The Kings Games pt 4)",
+      "Session 9 (Rise of Aphina pt 2)"
     ]
   },
   {
-    "title": "Session 9 (Aphina's Betrayal pt 2)",
+    "title": "Session 9 (Rise of Aphina pt 2)",
     "aliases": [],
     "category": "Notes",
-    "url": "/notes/session-9-aphinas-betrayal-pt-2/",
+    "url": "/notes/session-9-rise-of-aphina-pt-2/",
     "links": [
       "Rifa",
       "King Waldrann's Funeral Procession",
@@ -1169,7 +1170,7 @@
       "Lord Cyne Monder",
       "Queen Lyrencia",
       "Princess Aphina",
-      "Trix",
+      "Tyx",
       "Jean's mystery coin",
       "Kidnapping of Queen Lyrencia",
       "Death of Prince Krasnar",
@@ -1198,8 +1199,8 @@
       "Knights of the Crown",
       "Were-Hellhound",
       "Lord Cyne Monder",
-      "Session 8 (Aphina's Betrayal pt 1)",
-      "Session 10 (Aphina's Betrayal pt 3)"
+      "Session 8 (Rise of Aphina pt 1)",
+      "Session 10 (Rise of Aphina pt 3)"
     ]
   },
   {
@@ -1210,7 +1211,7 @@
     "links": [
       "Ricio Tane",
       "Jean",
-      "Session 10 (Aphina's Betrayal pt 3)",
+      "Session 10 (Rise of Aphina pt 3)",
       "Strange Idol",
       "Emporium of Marvelous Rarities",
       "Crown of Aglarion"
@@ -1554,7 +1555,11 @@
   },
   {
     "title": "Former Prince Krasnar",
-    "aliases": [],
+    "aliases": [
+      "Krasnar Azennar",
+      "Prince Krasnar",
+      "Krasnar"
+    ],
     "category": "People",
     "url": "/people/former-prince-krasnar/",
     "links": [
@@ -1566,7 +1571,11 @@
   },
   {
     "title": "Former Queen Alyssa Azennar",
-    "aliases": [],
+    "aliases": [
+      "Alyssa",
+      "Queen Alyssa",
+      "Alyssa Azennar"
+    ],
     "category": "People",
     "url": "/people/former-queen-alyssa-azennar/",
     "links": [
@@ -1625,12 +1634,15 @@
     "category": "People",
     "url": "/people/jeffle-pebblefoot/",
     "links": [
-      "The Dog Pit"
+      "The Dog Pit",
+      "Jean"
     ]
   },
   {
     "title": "King Dasmag",
-    "aliases": [],
+    "aliases": [
+      "Dasmag"
+    ],
     "category": "People",
     "url": "/people/king-dasmag/",
     "links": [
@@ -1643,7 +1655,11 @@
   },
   {
     "title": "King Waldrann Azennar",
-    "aliases": [],
+    "aliases": [
+      "Waldrann",
+      "King Waldrann",
+      "Waldrann Azennar"
+    ],
     "category": "People",
     "url": "/people/king-waldrann-azennar/",
     "links": [
@@ -1664,7 +1680,9 @@
   },
   {
     "title": "Lady Finia",
-    "aliases": [],
+    "aliases": [
+      "Finia"
+    ],
     "category": "People",
     "url": "/people/lady-finia/",
     "links": [
@@ -1679,6 +1697,7 @@
   {
     "title": "Lord Cyne Monder",
     "aliases": [
+      "Cyne Monder",
       "Monder"
     ],
     "category": "People",
@@ -1706,6 +1725,7 @@
   {
     "title": "Lord Kiryn",
     "aliases": [
+      "Kiryn Rumlyn",
       "Kiryn"
     ],
     "category": "People",
@@ -1753,7 +1773,10 @@
   },
   {
     "title": "Master Arlen",
-    "aliases": [],
+    "aliases": [
+      "Arlen",
+      "The Constructor"
+    ],
     "category": "People",
     "url": "/people/master-arlen/",
     "links": [
@@ -1770,7 +1793,10 @@
   },
   {
     "title": "Master Bertio Ranberd",
-    "aliases": [],
+    "aliases": [
+      "Bertio",
+      "Master Bertio"
+    ],
     "category": "People",
     "url": "/people/master-bertio-ranberd/",
     "links": [
@@ -1830,26 +1856,19 @@
     ]
   },
   {
-    "title": "Prince Krasnar",
-    "aliases": [],
-    "category": "People",
-    "url": "/people/prince-krasnar/",
-    "links": [
-      "Aglarion",
-      "King Waldrann Azennar",
-      "Former Queen Alyssa Azennar",
-      "Death of Prince Krasnar",
-      "Kidnapping of Queen Lyrencia"
-    ]
-  },
-  {
     "title": "Princess Aphina",
-    "aliases": [],
+    "aliases": [
+      "Aphina Azennar",
+      "Aphina",
+      "Queen Aphina"
+    ],
     "category": "People",
     "url": "/people/princess-aphina/",
     "links": [
-      "Session 5 (The King's Games pt 2)",
-      "Session 6 (The King's Games pt 3)",
+      "King Waldrann Azennar|King Waldrann",
+      "Queen Lyrencia",
+      "Session 5 (The Kings Games pt 2)",
+      "Session 6 (The Kings Games pt 3)",
       "King's Games",
       "Lady Rozena von Vyne",
       "The Curse"
@@ -1857,7 +1876,11 @@
   },
   {
     "title": "Queen Lyrencia",
-    "aliases": [],
+    "aliases": [
+      "Queen Lyrencia Azennar",
+      "Lyrencia",
+      "Lyrencia Azennar"
+    ],
     "category": "People",
     "url": "/people/queen-lyrencia/",
     "links": [
@@ -1869,7 +1892,8 @@
       "King Dasmag",
       "Feywild",
       "Death of Prince Krasnar",
-      "Former Prince Krasnar"
+      "Former Prince Krasnar",
+      "The Curse"
     ]
   },
   {
@@ -1940,10 +1964,10 @@
     ]
   },
   {
-    "title": "Trix",
+    "title": "Tyx",
     "aliases": [],
     "category": "People",
-    "url": "/people/trix/",
+    "url": "/people/tyx/",
     "links": [
       "Jean",
       "Jean's mystery coin"

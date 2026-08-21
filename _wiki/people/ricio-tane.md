@@ -7,6 +7,13 @@ permalink: "/people/ricio-tane/"
 generated: true
 ---
 
+| --- | --- |
+| Aliases | Ricio |
+| Species | Human |
+| Relationship | Allies |
+| Affiliations | Lucky Leap Tavern |
+| Status | Deceased |
+
 Friends with <a class="wiki-link" href="/people/lord-cyne-monder/">Lord Cyne Monder</a>  
 Owner of <a class="wiki-link" href="/locations/lucky-leap-tavern/">Lucky Leap Tavern</a>  
 Husband of the person who became <a class="wiki-link" href="/people/evra/">Evra</a>.  

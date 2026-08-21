@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 8 (Aphina's Betrayal pt 1)"
+title: "Session 8 (Rise of Aphina pt 1)"
 category: "Notes"
-source: "Notes/Session 8 (Aphina's Betrayal pt 1).md"
-permalink: "/notes/session-8-aphinas-betrayal-pt-1/"
+source: "Notes/Session 8 (Rise of Aphina pt 1).md"
+permalink: "/notes/session-8-rise-of-aphina-pt-1/"
 generated: true
 ---
 
@@ -62,5 +62,5 @@ A bad ruler is one that takes away power from others and keeps it themselves. Bu
 As Brush asks her what to do now, she in turn asks him to first think about what it is he wants to achieve. He answers that he wants to fix the world, to bring it back to the happy mood it was just before the <a class="wiki-link" href="/events/murder-of-king-waldrann/">Murder of King Waldrann</a>. Nyla thinks for a second, then tells him to start by learning whatever he can about the situation, and then take the next step towards action once he can see clearly.  
 As the evening passes, each partymember does their own thing. Brush draws in his room, replicating things from his <a class="wiki-link" href="/mysteries/nightmares/">Nightmares</a>. No matter what he draws, they always come out in a <span class="wiki-unresolved" title="No page exists for this reference">Set of Three</span>. Urgo cries himself to sleep. Jean gets a bottle of wine and goes to Leon's room to talk about the day and get drunk. They learn about <a class="wiki-link" href="/lore/erinyes/">Erinyes</a>, a type of vengeful devil, whose description seems to fit <a class="wiki-link" href="/people/former-queen-alyssa-azennar/">Former Queen Alyssa Azennar</a>. They determine that the king probably did "something" to provoke such a reaction, as a soul does not simply turn into a devil for no reason. Nyla performed a ritual to make <a class="wiki-link" href="/objects/nylas-pact-weapon/">Nyla&#x27;s Pact Weapon</a> absorb the power of the magical silver shortsword she won in the Battle of Champions. Afterwards, she asks Rozena how she feels about all this, considering her relationship with the queen. However, Rozena as usual tries to turn the therapy back on Nyla. She only says that she was shocked to see Alyssa come back so changed, especially knowing her as a softer kind of person. It made her rethink her opinion of the king. Even though she didn't initially like him much, she came to regard him with neutrality. But now she believes he may have actually done bad things. She muses about the time when the current queen was kidnapped into the Feywild and the subsequent events that led to the <a class="wiki-link" href="/events/death-of-prince-krasnar/">Death of Prince Krasnar</a>. The king and son (Krasnar) went to retrieve her. On the way back, the son was supposedly taken by quicksand, although there were rumors.  
   
-Previous Session: <a class="wiki-link" href="/notes/session-7-the-kings-games-pt-4/">Session 7 (The King&#x27;s Games pt 4)</a>  
-Next Session: <a class="wiki-link" href="/notes/session-9-aphinas-betrayal-pt-2/">Session 9 (Aphina&#x27;s Betrayal pt 2)</a>
+Previous Session: <a class="wiki-link" href="/notes/session-7-the-kings-games-pt-4/">Session 7 (The Kings Games pt 4)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-9-rise-of-aphina-pt-2/">Session 9 (Rise of Aphina pt 2)</a>

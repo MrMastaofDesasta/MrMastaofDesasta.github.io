@@ -7,6 +7,10 @@ permalink: "/people/pearla/"
 generated: true
 ---
 
+| --- | --- |
+| Species | Halfling |
+| Status | Unknown |
+
 Grandmother of <a class="wiki-link" href="/people/raffolk/">Raffolk</a>  
 Presumably also a halfling  
 Owned the other <a class="wiki-link" href="/objects/couatl-feather/">Couatl feather</a> but was not willing to sell it to Raffolk

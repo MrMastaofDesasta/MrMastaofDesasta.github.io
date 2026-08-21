@@ -7,6 +7,10 @@ permalink: "/people/raffolk/"
 generated: true
 ---
 
+| --- | --- |
+| Species | Halfling |
+| Status | Unknown |
+
 A Halfling  
 In possession of one of the <a class="wiki-link" href="/objects/couatl-feather/">Couatl feather</a>  
 Grandkid of <a class="wiki-link" href="/people/pearla/">Pearla</a>  

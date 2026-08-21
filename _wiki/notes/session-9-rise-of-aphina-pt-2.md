@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Session 9 (Aphina's Betrayal pt 2)"
+title: "Session 9 (Rise of Aphina pt 2)"
 category: "Notes"
-source: "Notes/Session 9 (Aphina's Betrayal pt 2).md"
-permalink: "/notes/session-9-aphinas-betrayal-pt-2/"
+source: "Notes/Session 9 (Rise of Aphina pt 2).md"
+permalink: "/notes/session-9-rise-of-aphina-pt-2/"
 generated: true
 ---
 
@@ -23,7 +23,7 @@ The party rushed to defend the royals and nobles in attendance, but all attacks 
   
 ### Investigation  
 Jean left the party to visit an informant and Nyla remained in charge of the rest, as she seemed the most responsible one. However, while she, still overwhelmed by the responsibility, turned to Rozena for coaching, Urgo and Brush started loudly conversing about the happenings, tarnishing both <a class="wiki-link" href="/people/queen-lyrencia/">Queen Lyrencia</a>'s and <a class="wiki-link" href="/people/princess-aphina/">Princess Aphina</a>'s names in front of them. While guards approached, Nyla barely managed to defuse the situation and ushered the party out of the place.  
-Meanwhile, Jean changed their appearance and went to visit <a class="wiki-link" href="/people/trix/">Trix</a> in her house, presumably interrupting her teatime. Before letting him in, she asked to see "a coin" <a class="wiki-link" href="/objects/jeans-mystery-coin/">Jean&#x27;s mystery coin</a>. There, jean learned of the <a class="wiki-link" href="/events/kidnapping-of-queen-lyrencia/">Kidnapping of Queen Lyrencia</a>, and the backstory which led to the <a class="wiki-link" href="/events/death-of-prince-krasnar/">Death of Prince Krasnar</a>. He found it suspicious how the death was framed to be due to quicksand.  
+Meanwhile, Jean changed their appearance and went to visit <a class="wiki-link" href="/people/tyx/">Tyx</a> in her house, presumably interrupting her teatime. Before letting him in, she asked to see "a coin" <a class="wiki-link" href="/objects/jeans-mystery-coin/">Jean&#x27;s mystery coin</a>. There, jean learned of the <a class="wiki-link" href="/events/kidnapping-of-queen-lyrencia/">Kidnapping of Queen Lyrencia</a>, and the backstory which led to the <a class="wiki-link" href="/events/death-of-prince-krasnar/">Death of Prince Krasnar</a>. He found it suspicious how the death was framed to be due to quicksand.  
 Brush went to the <a class="wiki-link" href="/locations/lucky-leap-tavern/">Lucky Leap Tavern</a> to keep the appointment with <a class="wiki-link" href="/people/gratus-ultio/">Gratus Ultio</a>, and Nyla, at the suggestion of Rozena, accompanied him. <a class="wiki-link" href="/people/gratus-ultio/">Gratus Ultio</a> said that he, as a member of the <a class="wiki-link" href="/organizations/knights-of-the-crown/">Knights of the Crown</a> would have to attend a meeting soon, but wanted to keep his promise to meet Brush. However, he does not know more about Brush's origins, but said the name <a class="wiki-link" href="/locations/harveston/">Harveston</a> (A city) comes to mind, and that one <a class="wiki-link" href="/people/father-gibbson/">Father Gibbson</a> might know more.  
 When Jean came back to Urgo and Leon, and learned about what happened, he was flabbergasted, and as he confronted Urgo, he brought up the same conversation within earshot of the guards again, which led to them fleeing and coming to the tavern as well.  
 After the party reconvened, <a class="wiki-link" href="/people/gratus-ultio/">Gratus Ultio</a> gave some more background lore on <a class="wiki-link" href="/lore/the-shining-light-and-the-darkness-within/">The Shining Light and The Darkness Within</a>, as well as the relation to the <a class="wiki-link" href="/lore/dark-star/">Dark Star</a> and the <a class="wiki-link" href="/lore/age-of-brightness/">Age of Brightness</a>. Nyla was officially welcomed into the party, while Brush and Urgo got reprimanded and punished by Jean.  
@@ -43,5 +43,5 @@ Quote
   
 The <a class="wiki-link" href="/organizations/children-of-the-coven/">Children of the Coven</a> will supposedly keep an eye out to make sure that her laws will be followed. She then turned towards the <a class="wiki-link" href="/organizations/knights-of-the-crown/">Knights of the Crown</a> and offered them power beyond comprehension if they swore loyalty to her. The ones that agreed turned into a <a class="wiki-link" href="/lore/were-hellhound/">Were-Hellhound</a>. <a class="wiki-link" href="/people/lord-cyne-monder/">Lord Cyne Monder</a> disobeyed and rushed towards her.  
   
-Previous Session: <a class="wiki-link" href="/notes/session-8-aphinas-betrayal-pt-1/">Session 8 (Aphina&#x27;s Betrayal pt 1)</a>  
-Next Session: <a class="wiki-link" href="/notes/session-10-aphinas-betrayal-pt-3/">Session 10 (Aphina&#x27;s Betrayal pt 3)</a>
+Previous Session: <a class="wiki-link" href="/notes/session-8-rise-of-aphina-pt-1/">Session 8 (Rise of Aphina pt 1)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-10-rise-of-aphina-pt-3/">Session 10 (Rise of Aphina pt 3)</a>

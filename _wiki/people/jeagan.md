@@ -7,6 +7,12 @@ permalink: "/people/jeagan/"
 generated: true
 ---
 
+| --- | --- |
+| Species | Human, probably |
+| Relationship | Friends |
+| Affiliations | Rumlyn Family<br>Royal Family of Aglarion |
+| Status | Deceased |
+
 The royal chef  
 Female I think  
   

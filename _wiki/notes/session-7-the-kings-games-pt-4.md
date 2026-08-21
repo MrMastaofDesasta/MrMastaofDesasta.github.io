@@ -1,8 +1,8 @@
 ---
 layout: wiki
-title: "Session 7 (The King's Games pt 4)"
+title: "Session 7 (The Kings Games pt 4)"
 category: "Notes"
-source: "Notes/Session 7 (The King's Games pt 4).md"
+source: "Notes/Session 7 (The Kings Games pt 4).md"
 permalink: "/notes/session-7-the-kings-games-pt-4/"
 generated: true
 ---
@@ -28,5 +28,5 @@ The second match drawn, and once again it is two of the partymembers. Nyla again
 The next battle is Leon.  
   
   
-Previous Session: <a class="wiki-link" href="/notes/session-6-the-kings-games-pt-3/">Session 6 (The King&#x27;s Games pt 3)</a>  
-Next Session: <a class="wiki-link" href="/notes/session-8-aphinas-betrayal-pt-1/">Session 8 (Aphina&#x27;s Betrayal pt 1)</a>
+Previous Session: <a class="wiki-link" href="/notes/session-6-the-kings-games-pt-3/">Session 6 (The Kings Games pt 3)</a>  
+Next Session: <a class="wiki-link" href="/notes/session-8-rise-of-aphina-pt-1/">Session 8 (Rise of Aphina pt 1)</a>

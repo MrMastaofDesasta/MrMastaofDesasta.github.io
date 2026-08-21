@@ -7,6 +7,13 @@ permalink: "/people/master-bertio-ranberd/"
 generated: true
 ---
 
+| --- | --- |
+| Aliases | Bertio<br>Master Bertio |
+| Species | Human?? |
+| Relationship | ??? |
+| Affiliations | The Emporium of Marvelous Rarities<br>The Dark Star |
+| Status | Alive |
+
 The owner/leader of the <a class="wiki-link" href="/locations/emporium-of-marvelous-rarities/">Emporium of Marvelous Rarities</a> and a powerful mage.  
   
 In the past he came into conflict with <a class="wiki-link" href="/people/ricio-tane/">Ricio Tane</a> and his wife who was a student but stole from him. Eventually she gave herself up to protect Ricio and was presumably killed by him and turned into <a class="wiki-link" href="/people/evra/">Evra</a>.  

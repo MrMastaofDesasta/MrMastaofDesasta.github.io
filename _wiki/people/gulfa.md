@@ -7,6 +7,11 @@ permalink: "/people/gulfa/"
 generated: true
 ---
 
+| --- | --- |
+| Species | Bugbear |
+| Relationship | Hostile |
+| Status | Unknown |
+
 Is a huge Bugbear  
 Kinda a jerk  
 Owns a casino or something. <a class="wiki-link" href="/people/raffolk/">Raffolk</a> owes him money  
