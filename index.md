@@ -29,7 +29,7 @@ Welcome to the campaign wiki.
   <a href="/pets/" class="wiki-category-link">
     Pets
   </a>
-  <span class="wiki-category-count">8 pages</span>
+  <span class="wiki-category-count">9 pages</span>
 </div>
 
 <div class="wiki-category-card">
@@ -78,7 +78,7 @@ Welcome to the campaign wiki.
   <a href="/notes/" class="wiki-category-link">
     Session Notes
   </a>
-  <span class="wiki-category-count">20 pages</span>
+  <span class="wiki-category-count">21 pages</span>
 </div>
 
 <div class="wiki-category-card">

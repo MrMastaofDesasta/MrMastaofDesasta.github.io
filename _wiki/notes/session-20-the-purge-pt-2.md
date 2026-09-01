@@ -120,4 +120,4 @@ While the others got into an argument about the incident with the Kraken, Nyla s
 Rozena still wasn't back, which was starting to worry her.  
   
 Previous Session: <a class="wiki-link" href="/notes/session-19-the-purge-pt-1/">Session 19 (The Purge pt 1)</a>  
-Next Session <span class="wiki-unresolved" title="No page exists for this reference">Session 21</span>
+Next Session <a class="wiki-link" href="/notes/session-21-the-crypt-pt-1/">Session 21 (The Crypt pt 1)</a>

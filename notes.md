@@ -30,5 +30,6 @@ generated: true
 <a class="wiki-list-item" href="/notes/session-18-the-monster-menagerie-pt-3/"><span class="wiki-list-title">Session 18 (The Monster Menagerie pt 3)</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/notes/session-19-the-purge-pt-1/"><span class="wiki-list-title">Session 19 (The Purge pt 1)</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/notes/session-20-the-purge-pt-2/"><span class="wiki-list-title">Session 20 (The Purge pt 2)</span><span class="wiki-list-arrow">→</span></a>
+<a class="wiki-list-item" href="/notes/session-21-the-crypt-pt-1/"><span class="wiki-list-title">Session 21 (The Crypt pt 1)</span><span class="wiki-list-arrow">→</span></a>
 
 </div>

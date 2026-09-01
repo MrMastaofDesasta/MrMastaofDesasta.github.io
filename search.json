@@ -989,7 +989,20 @@
       "Lucky Leap Tavern",
       "Ricio Tane|Ricio",
       "Session 19 (The Purge pt 1)",
-      "Session 21"
+      "Session 21 (The Crypt pt 1)"
+    ]
+  },
+  {
+    "title": "Session 21 (The Crypt pt 1)",
+    "aliases": [],
+    "category": "Notes",
+    "url": "/notes/session-21-the-crypt-pt-1/",
+    "links": [
+      "Monder Family Crypt",
+      "Black Flowers",
+      "Chunk",
+      "Doppelganger Mask|purple mask",
+      "Loud and Lusty Brothel"
     ]
   },
   {
@@ -1556,8 +1569,8 @@
   {
     "title": "Former Prince Krasnar",
     "aliases": [
-      "Krasnar Azennar",
       "Prince Krasnar",
+      "Krasnar Azennar",
       "Krasnar"
     ],
     "category": "People",
@@ -1572,8 +1585,8 @@
   {
     "title": "Former Queen Alyssa Azennar",
     "aliases": [
-      "Alyssa",
       "Queen Alyssa",
+      "Alyssa",
       "Alyssa Azennar"
     ],
     "category": "People",
@@ -1697,8 +1710,8 @@
   {
     "title": "Lord Cyne Monder",
     "aliases": [
-      "Cyne Monder",
-      "Monder"
+      "Monder",
+      "Cyne Monder"
     ],
     "category": "People",
     "url": "/people/lord-cyne-monder/",
@@ -1794,8 +1807,8 @@
   {
     "title": "Master Bertio Ranberd",
     "aliases": [
-      "Bertio",
-      "Master Bertio"
+      "Master Bertio",
+      "Bertio"
     ],
     "category": "People",
     "url": "/people/master-bertio-ranberd/",
@@ -1877,9 +1890,9 @@
   {
     "title": "Queen Lyrencia",
     "aliases": [
-      "Queen Lyrencia Azennar",
       "Lyrencia",
-      "Lyrencia Azennar"
+      "Lyrencia Azennar",
+      "Queen Lyrencia Azennar"
     ],
     "category": "People",
     "url": "/people/queen-lyrencia/",
@@ -1990,6 +2003,15 @@
     "url": "/pets/cat/",
     "links": [
       "Jean"
+    ]
+  },
+  {
+    "title": "Chunk",
+    "aliases": [],
+    "category": "Pets",
+    "url": "/pets/chunk/",
+    "links": [
+      "Leon"
     ]
   },
   {

@@ -9,7 +9,7 @@ generated: true
 
 | --- | --- |
 | Aliases | Monder<br>Cyne Monder |
-| Species | Human |
+| Species | Dwarf |
 | Relationship | Allies |
 | Affiliations | Royal Family of Aglarion<br>Knights of the Crown |
 | Status | Deceased |
