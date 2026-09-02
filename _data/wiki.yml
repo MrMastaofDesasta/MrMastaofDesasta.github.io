@@ -351,5 +351,13 @@ categories:
     slug: "other"
     url: "/other/"
     pages:
+      - title: "Doppelganger Mask"
+        url: "/other/doppelganger-mask/"
+      - title: "leader of the Loud and Lusty Brothel"
+        url: "/other/leader-of-the-loud-and-lusty-brothel/"
+      - title: "Monder Family Crypt"
+        url: "/other/monder-family-crypt/"
       - title: "Open Questions"
         url: "/other/open-questions/"
+      - title: "Stranger from the Crypt"
+        url: "/other/stranger-from-the-crypt/"

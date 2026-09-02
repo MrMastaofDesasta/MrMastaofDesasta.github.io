@@ -1,10 +1,49 @@
 [
   {
+    "title": "Doppelganger Mask",
+    "aliases": [],
+    "category": "Other",
+    "url": "/other/doppelganger-mask/",
+    "links": [
+      "Golden Masks",
+      "Nyla"
+    ]
+  },
+  {
+    "title": "leader of the Loud and Lusty Brothel",
+    "aliases": [],
+    "category": "Other",
+    "url": "/other/leader-of-the-loud-and-lusty-brothel/",
+    "links": []
+  },
+  {
+    "title": "Monder Family Crypt",
+    "aliases": [],
+    "category": "Other",
+    "url": "/other/monder-family-crypt/",
+    "links": [
+      "Monder Family",
+      "Onadbyr",
+      "Lord Cyne Monder",
+      "Lord Monder's Journal|journal",
+      "Golden Masks"
+    ]
+  },
+  {
     "title": "Open Questions",
     "aliases": [],
     "category": "Other",
     "url": "/other/open-questions/",
     "links": []
+  },
+  {
+    "title": "Stranger from the Crypt",
+    "aliases": [],
+    "category": "Other",
+    "url": "/other/stranger-from-the-crypt/",
+    "links": [
+      "Monder Family Crypt"
+    ]
   },
   {
     "title": "Battle of Champions",
@@ -998,11 +1037,19 @@
     "category": "Notes",
     "url": "/notes/session-21-the-crypt-pt-1/",
     "links": [
+      "Jean's Apartment",
       "Monder Family Crypt",
-      "Black Flowers",
       "Chunk",
+      "Princess Aphina|Queen",
       "Doppelganger Mask|purple mask",
-      "Loud and Lusty Brothel"
+      "Golden Masks",
+      "Monder Family",
+      "Stranger from the Crypt|person",
+      "Master Key",
+      "Amaterasu",
+      "leader of the Loud and Lusty Brothel|leader of the Loud and Lusty Brothel",
+      "Session 20 (The Purge pt 2)",
+      "Session 22"
     ]
   },
   {
@@ -1570,8 +1617,8 @@
     "title": "Former Prince Krasnar",
     "aliases": [
       "Prince Krasnar",
-      "Krasnar Azennar",
-      "Krasnar"
+      "Krasnar",
+      "Krasnar Azennar"
     ],
     "category": "People",
     "url": "/people/former-prince-krasnar/",
@@ -1585,9 +1632,9 @@
   {
     "title": "Former Queen Alyssa Azennar",
     "aliases": [
-      "Queen Alyssa",
+      "Alyssa Azennar",
       "Alyssa",
-      "Alyssa Azennar"
+      "Queen Alyssa"
     ],
     "category": "People",
     "url": "/people/former-queen-alyssa-azennar/",
@@ -1787,14 +1834,14 @@
   {
     "title": "Master Arlen",
     "aliases": [
-      "Arlen",
-      "The Constructor"
+      "The Constructor",
+      "Arlen"
     ],
     "category": "People",
     "url": "/people/master-arlen/",
     "links": [
       "Age of Brightness",
-      "King Razmyrel",
+      "Razmyrel Valsyr Melkar|King Razmyrel",
       "King Razmyrel's Rebellion",
       "Eternal Light",
       "Crystal of the Immortals",
@@ -1891,8 +1938,8 @@
     "title": "Queen Lyrencia",
     "aliases": [
       "Lyrencia",
-      "Lyrencia Azennar",
-      "Queen Lyrencia Azennar"
+      "Queen Lyrencia Azennar",
+      "Lyrencia Azennar"
     ],
     "category": "People",
     "url": "/people/queen-lyrencia/",
