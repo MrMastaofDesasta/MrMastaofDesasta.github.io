@@ -14,7 +14,7 @@ Deeper inside the crypt, the party encountered the ghost of someone who seemed l
 <div class="callout callout-quote">  
   <div class="callout-title">Ghost of Monder&#x27;s Ancestor</div>  
   <div class="callout-content">  
-"Enter Quote"  
+“How dare you disturb my eternal rest and remains?! What has been defiled must be righted and honor offered by bowed pate, prayer, and tribute. Or be consumed eternally ’in flames, like those of the Monder line.”  
   </div>  
 </div>  
   

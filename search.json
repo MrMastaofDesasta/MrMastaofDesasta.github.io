@@ -1013,12 +1013,11 @@
       "Princess Aphina|Aphina",
       "Golden Masks",
       "Princess Aphina|Aphina",
+      "Princess Aphina|Aphina",
       "Strange Organization's Tattoo|tattoo",
       "Lady Finia",
       "Lord Kiryn|Kiryn",
       "Lighthouse",
-      "Tyx",
-      "Strange Organization's Tattoo",
       "Evra",
       "Hex Lightning",
       "Amaterasu",
@@ -1616,8 +1615,8 @@
   {
     "title": "Former Prince Krasnar",
     "aliases": [
-      "Prince Krasnar",
       "Krasnar",
+      "Prince Krasnar",
       "Krasnar Azennar"
     ],
     "category": "People",
@@ -1632,8 +1631,8 @@
   {
     "title": "Former Queen Alyssa Azennar",
     "aliases": [
-      "Alyssa Azennar",
       "Alyssa",
+      "Alyssa Azennar",
       "Queen Alyssa"
     ],
     "category": "People",
@@ -1716,8 +1715,8 @@
   {
     "title": "King Waldrann Azennar",
     "aliases": [
-      "Waldrann",
       "King Waldrann",
+      "Waldrann",
       "Waldrann Azennar"
     ],
     "category": "People",
@@ -1834,8 +1833,8 @@
   {
     "title": "Master Arlen",
     "aliases": [
-      "The Constructor",
-      "Arlen"
+      "Arlen",
+      "The Constructor"
     ],
     "category": "People",
     "url": "/people/master-arlen/",
@@ -1918,9 +1917,9 @@
   {
     "title": "Princess Aphina",
     "aliases": [
-      "Aphina Azennar",
       "Aphina",
-      "Queen Aphina"
+      "Queen Aphina",
+      "Aphina Azennar"
     ],
     "category": "People",
     "url": "/people/princess-aphina/",
@@ -1937,9 +1936,9 @@
   {
     "title": "Queen Lyrencia",
     "aliases": [
-      "Lyrencia",
       "Queen Lyrencia Azennar",
-      "Lyrencia Azennar"
+      "Lyrencia Azennar",
+      "Lyrencia"
     ],
     "category": "People",
     "url": "/people/queen-lyrencia/",
