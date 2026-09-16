@@ -1,49 +1,10 @@
 [
   {
-    "title": "Doppelganger Mask",
-    "aliases": [],
-    "category": "Other",
-    "url": "/other/doppelganger-mask/",
-    "links": [
-      "Golden Masks",
-      "Nyla"
-    ]
-  },
-  {
-    "title": "leader of the Loud and Lusty Brothel",
-    "aliases": [],
-    "category": "Other",
-    "url": "/other/leader-of-the-loud-and-lusty-brothel/",
-    "links": []
-  },
-  {
-    "title": "Monder Family Crypt",
-    "aliases": [],
-    "category": "Other",
-    "url": "/other/monder-family-crypt/",
-    "links": [
-      "Monder Family",
-      "Onadbyr",
-      "Lord Cyne Monder",
-      "Lord Monder's Journal|journal",
-      "Golden Masks"
-    ]
-  },
-  {
     "title": "Open Questions",
     "aliases": [],
     "category": "Other",
     "url": "/other/open-questions/",
     "links": []
-  },
-  {
-    "title": "Stranger from the Crypt",
-    "aliases": [],
-    "category": "Other",
-    "url": "/other/stranger-from-the-crypt/",
-    "links": [
-      "Monder Family Crypt"
-    ]
   },
   {
     "title": "Battle of Champions",
@@ -220,6 +181,19 @@
     "url": "/locations/lucky-leap-tavern/",
     "links": [
       "Onadbyr"
+    ]
+  },
+  {
+    "title": "Monder Family Crypt",
+    "aliases": [],
+    "category": "Locations",
+    "url": "/locations/monder-family-crypt/",
+    "links": [
+      "Monder Family",
+      "Onadbyr",
+      "Lord Cyne Monder",
+      "Lord Monder's Journal|journal",
+      "Golden Masks"
     ]
   },
   {
@@ -1042,13 +1016,32 @@
       "Princess Aphina|Queen",
       "Doppelganger Mask|purple mask",
       "Golden Masks",
+      "Session 22 (The Crypt pt 2)|Session 22",
       "Monder Family",
       "Stranger from the Crypt|person",
       "Master Key",
       "Amaterasu",
       "leader of the Loud and Lusty Brothel|leader of the Loud and Lusty Brothel",
       "Session 20 (The Purge pt 2)",
-      "Session 22"
+      "Session 22 (The Crypt pt 2)"
+    ]
+  },
+  {
+    "title": "Session 22 (The Crypt pt 2)",
+    "aliases": [],
+    "category": "Notes",
+    "url": "/notes/session-22-the-crypt-pt-2/",
+    "links": [
+      "leader of the Loud and Lusty Brothel",
+      "Loud and Lusty Brothel",
+      "Princess Aphina|Queen",
+      "Golden Masks",
+      "Ricio Tane|Ricio",
+      "leader of the Loud and Lusty Brothel",
+      "Monder Family Crypt",
+      "Lucky Leap Tavern",
+      "Session 21 (The Crypt pt 1)",
+      "Session 23"
     ]
   },
   {
@@ -1300,6 +1293,16 @@
       "The Curse",
       "Bone-like Protrusions",
       "Blue Vein-like Patterns"
+    ]
+  },
+  {
+    "title": "Doppelganger Mask",
+    "aliases": [],
+    "category": "Objects",
+    "url": "/objects/doppelganger-mask/",
+    "links": [
+      "Golden Masks",
+      "Nyla"
     ]
   },
   {
@@ -1616,8 +1619,8 @@
     "title": "Former Prince Krasnar",
     "aliases": [
       "Krasnar",
-      "Prince Krasnar",
-      "Krasnar Azennar"
+      "Krasnar Azennar",
+      "Prince Krasnar"
     ],
     "category": "People",
     "url": "/people/former-prince-krasnar/",
@@ -1715,9 +1718,9 @@
   {
     "title": "King Waldrann Azennar",
     "aliases": [
+      "Waldrann Azennar",
       "King Waldrann",
-      "Waldrann",
-      "Waldrann Azennar"
+      "Waldrann"
     ],
     "category": "People",
     "url": "/people/king-waldrann-azennar/",
@@ -1754,10 +1757,17 @@
     ]
   },
   {
+    "title": "leader of the Loud and Lusty Brothel",
+    "aliases": [],
+    "category": "People",
+    "url": "/people/leader-of-the-loud-and-lusty-brothel/",
+    "links": []
+  },
+  {
     "title": "Lord Cyne Monder",
     "aliases": [
-      "Monder",
-      "Cyne Monder"
+      "Cyne Monder",
+      "Monder"
     ],
     "category": "People",
     "url": "/people/lord-cyne-monder/",
@@ -1784,8 +1794,8 @@
   {
     "title": "Lord Kiryn",
     "aliases": [
-      "Kiryn Rumlyn",
-      "Kiryn"
+      "Kiryn",
+      "Kiryn Rumlyn"
     ],
     "category": "People",
     "url": "/people/lord-kiryn/",
@@ -1833,8 +1843,8 @@
   {
     "title": "Master Arlen",
     "aliases": [
-      "Arlen",
-      "The Constructor"
+      "The Constructor",
+      "Arlen"
     ],
     "category": "People",
     "url": "/people/master-arlen/",
@@ -1988,6 +1998,15 @@
     "links": [
       "Jean",
       "Murder of King Waldrann"
+    ]
+  },
+  {
+    "title": "Stranger from the Crypt",
+    "aliases": [],
+    "category": "People",
+    "url": "/people/stranger-from-the-crypt/",
+    "links": [
+      "Monder Family Crypt"
     ]
   },
   {

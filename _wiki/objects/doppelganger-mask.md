@@ -1,9 +1,9 @@
 ---
 layout: wiki
 title: "Doppelganger Mask"
-category: "Other"
-source: "Doppelganger Mask.md"
-permalink: "/other/doppelganger-mask/"
+category: "Objects"
+source: "Objects/Doppelganger Mask.md"
+permalink: "/objects/doppelganger-mask/"
 generated: true
 ---
 

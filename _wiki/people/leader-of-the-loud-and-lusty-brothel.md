@@ -1,9 +1,9 @@
 ---
 layout: wiki
 title: "leader of the Loud and Lusty Brothel"
-category: "Other"
-source: "leader of the Loud and Lusty Brothel.md"
-permalink: "/other/leader-of-the-loud-and-lusty-brothel/"
+category: "People"
+source: "People/leader of the Loud and Lusty Brothel.md"
+permalink: "/people/leader-of-the-loud-and-lusty-brothel/"
 generated: true
 ---
 

@@ -28,6 +28,7 @@ generated: true
 <a class="wiki-list-item" href="/people/king-dasmag/"><span class="wiki-list-title">King Dasmag</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/king-waldrann-azennar/"><span class="wiki-list-title">King Waldrann Azennar</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/lady-finia/"><span class="wiki-list-title">Lady Finia</span><span class="wiki-list-arrow">→</span></a>
+<a class="wiki-list-item" href="/people/leader-of-the-loud-and-lusty-brothel/"><span class="wiki-list-title">leader of the Loud and Lusty Brothel</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/lord-cyne-monder/"><span class="wiki-list-title">Lord Cyne Monder</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/lord-kiryn/"><span class="wiki-list-title">Lord Kiryn</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/lord-rumlyn/"><span class="wiki-list-title">Lord Rumlyn</span><span class="wiki-list-arrow">→</span></a>
@@ -44,6 +45,7 @@ generated: true
 <a class="wiki-list-item" href="/people/raffolk/"><span class="wiki-list-title">Raffolk</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/ricio-tane/"><span class="wiki-list-title">Ricio Tane</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/rifa/"><span class="wiki-list-title">Rifa</span><span class="wiki-list-arrow">→</span></a>
+<a class="wiki-list-item" href="/people/stranger-from-the-crypt/"><span class="wiki-list-title">Stranger from the Crypt</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/taris/"><span class="wiki-list-title">Taris</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/the-countess/"><span class="wiki-list-title">The Countess</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/toront/"><span class="wiki-list-title">Toront</span><span class="wiki-list-arrow">→</span></a>

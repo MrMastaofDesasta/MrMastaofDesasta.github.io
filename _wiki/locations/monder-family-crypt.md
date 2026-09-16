@@ -1,9 +1,9 @@
 ---
 layout: wiki
 title: "Monder Family Crypt"
-category: "Other"
-source: "Monder Family Crypt.md"
-permalink: "/other/monder-family-crypt/"
+category: "Locations"
+source: "Locations/Monder Family Crypt.md"
+permalink: "/locations/monder-family-crypt/"
 generated: true
 ---
 

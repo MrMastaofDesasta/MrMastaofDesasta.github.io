@@ -18,6 +18,7 @@ generated: true
 <a class="wiki-list-item" href="/locations/gorso-village/"><span class="wiki-list-title">Gorso Village</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/locations/harveston/"><span class="wiki-list-title">Harveston</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/locations/lucky-leap-tavern/"><span class="wiki-list-title">Lucky Leap Tavern</span><span class="wiki-list-arrow">→</span></a>
+<a class="wiki-list-item" href="/locations/monder-family-crypt/"><span class="wiki-list-title">Monder Family Crypt</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/locations/monster-menagerie/"><span class="wiki-list-title">Monster Menagerie</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/locations/napping-giant/"><span class="wiki-list-title">Napping Giant</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/locations/nine-arches/"><span class="wiki-list-title">Nine Arches</span><span class="wiki-list-arrow">→</span></a>
