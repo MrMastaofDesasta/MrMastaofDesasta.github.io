@@ -9,7 +9,7 @@ generated: true
 
 The party remained at the <a class="wiki-link" href="/locations/lucky-leap-tavern/">Lucky Leap Tavern</a>, regrouping after learning what they could about the possible ways into the <a class="wiki-link" href="/locations/emporium-of-marvelous-rarities/">Emporium of Marvelous Rarities</a>. They settled on splitting into two groups for the infiltration: Jean and Brush together, and Leon, Nyla, and Urgo as the other.  
   
-As the evening wound down, Jean sang a lullaby about rebirth. It moved Nyla to tears. Brush, for his part, made a drawing before sleep that depicted a <a class="wiki-link" href="/mysteries/tree-with-an-eye/">Tree with an Eye</a>. As he drifted off, the same image surfaced unbidden in his mind.  
+As the evening wound down, Jean sang a lullaby about rebirth. It moved Nyla to tears. Brush, for his part, made a drawing before sleep that depicted a <a class="wiki-link" href="/mysteries/tree-with-three-eyes/">Tree with three eyes</a>. As he drifted off, the same image surfaced unbidden in his mind.  
   
 Nyla noticed that the skeletal portion of <a class="wiki-link" href="/pets/amaterasu/">Amaterasu</a>'s belly had grown larger than before. Uncertain what to make of it, she sought out <a class="wiki-link" href="/people/ricio-tane/">Ricio Tane</a> and asked if he knew anything. He didn't, but promised to look into it.  
   

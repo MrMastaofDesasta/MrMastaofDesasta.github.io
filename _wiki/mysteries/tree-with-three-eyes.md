@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Tree with an Eye"
+title: "Tree with three eyes"
 category: "Mysteries"
-source: "Mysteries/Tree with an Eye.md"
-permalink: "/mysteries/tree-with-an-eye/"
+source: "Mysteries/Tree with three eyes.md"
+permalink: "/mysteries/tree-with-three-eyes/"
 generated: true
 ---
 

@@ -32,5 +32,6 @@ generated: true
 <a class="wiki-list-item" href="/notes/session-20-the-purge-pt-2/"><span class="wiki-list-title">Session 20 (The Purge pt 2)</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/notes/session-21-the-crypt-pt-1/"><span class="wiki-list-title">Session 21 (The Crypt pt 1)</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/notes/session-22-the-crypt-pt-2/"><span class="wiki-list-title">Session 22 (The Crypt pt 2)</span><span class="wiki-list-arrow">→</span></a>
+<a class="wiki-list-item" href="/notes/session-23-a-quiet-evening/"><span class="wiki-list-title">Session 23 (A Quiet Evening)</span><span class="wiki-list-arrow">→</span></a>
 
 </div>
